@@ -1,0 +1,1435 @@
+id,rcNo,name,directorate,designation,div,contact
+0,1,Shobha Narayanan,Directors Sett,SPS to Director,,
+1,2,Shri Anindya Biswas,Directors Sett,"OS, Director RCI",,
+2,5,Santosh Kumar Choudhury,Directors Sett,Technical Officer,,9490166678
+3,6,Anjani,Directors Sett,PRO,,9490166601
+4,7,Shri Anindya Biswas,Directors Sett,"OS, Director RCI",,
+5,8,Visitor Room,Directors Sett,,,
+6,9,Shri Anindya Biswas,Directors Sett,"OS, Director RCI",,
+7,10,Yadgiri,Directors Sett,Store Consultant,,
+8,11,Shri Anindya Biswas,Directors Sett,"OS, Director RCI",,
+9,13,P Srinivas Reddy,DOFI,"OS, Director RCI",DOFI,9848241254 	
+10,15,B Satyanarayana,DOFI,Scientist G,SCG,9490956073
+11,16,Atul Pawar,DOFI,Scientist G,DL & ASG,9440509444
+12,17,N. Sukhavani,DOFI,Scientist G,SCG,9441448641
+13,18,P Gangadhara,DOFI,Scientist F,SCG,9493348384
+14,19,V. Srinivasa Rao,DOFI,Scientist F,DL & ASG,9440741114
+15,20,Jagadish Prasad,DOFI,Scientist F,DL & ASG,9490956818
+16,21,H Yellaiah,DR & QA,Scientist F,SCG,9490447354
+17,22,U. Naresh Kumar,DOFI,Scientist F,TTTG,9948276668
+18,24,K Sudarsana Reddy,DOFI,Scientist F,TTTG,9491006292
+19,25,Y Sanjeeva Reddy,DOFI,Scientist E,TTTG,9441859261
+20,26,Shivani Garg,DOFI,Scientist F,TTTG,9440484145
+21,27,P Veeranna,DOFI,Scientist F,TTTG,9440094617
+22,28,Jayant Patil,DOFI,Scientist F,DL & ASG,9440087562
+23,29,Jayant Patil,DOFI,Scientist F,DL & ASG,9440087562
+24,30,E Bhooshan Rao,DOFI,Scientist F,TTTG,9848990179
+25,31,Deepak Yadav,DOFI,Scientist F,TTTG,7382618825
+26,32,Sourav Biswas,DOFI,Scientist F,TTTG,9490956651
+27,33,Mr Sandeep Khalkho,DOFI,Technical Officer A,DL & ASG,9000565715
+28,34,P Vijay Ram Reddy,DOFI,Scientist E,TTTG,7382618825
+29,35,Ramesh Rathod,DOFI,Scientist E,DL & ASG,9441551446
+30,36,Y Sanjeeva Reddy,DOFI,Scientist D,TTTG,9441859261
+31,37,G Kiran Kumar,DOFI,Scientist E,SCG,9490454324
+32,38,P Suresh,DOFI,Scientist D,DOFI,9490885866
+33,39,Mumhamed Fazal,DOFI,Scientist E,DL & ASG,9490494231
+34,40,Irshad Parwez,DOFI,Scientist D,DL & ASG,9492718373
+35,41,K Annapurna,DOFI,Scientist D,TTTG,9705066882
+36,43,Pradeep Kumar Patel,DOFI,Scientist C,DL & ASG,8512897337
+37,45,K Ammanni,DOFI,TO-D,SCG,9491885243
+38,48,K Satyanarayana,DOFI,TO-C,TTTG,9848962692
+39,49,K Ujjwala,DOFI,TO-C,TTTG,8331912433
+40,53,P.T.V.N. Simhadri Rao,DOFI,Technical Officer B,DL & ASG,9848673693
+41,54,Mahima Dwivedi,DOFI,Technical Officer B,DL & ASG,8074015322
+42,57,V Bharat Kumar,DOFI,Technical Officer A,TTTG,9492001784
+43,58,G Surender,DOFI,STA-B,TTTG,9440794490
+44,59,K Naasimha Prasanna,DOFI,Technical Officer A,TTTG,9441422730
+45,60,K Vinod Kumar,DOFI,STA-B,DL & ASG,9908482027
+46,62,S Sai Srikar,DOFI,STA-B,TTTG,9490970516
+47,63,Suresh Shekhar,DOFI,STA-B,SCG,9709476882
+48,64,Shakir Hussain,DOFI,TECH- B,TTTG,9441263575
+49,66,Pawan,DOFI,TECH- A,DL & ASG,8058460212
+50,67,Kazim Ahmed,DOMS,Assistant Director (OL),Rajbhasha,8340925054
+51,68,Dr. P Anil Kumar,DOMS,Scientist G,DOMS,9490797527
+52,71,B Ratna Kumari,DOMS,Technical Officer,DOMS,9491085719
+53,72,G Srinivasa Rao,Ground Systems,Scientist G,Ground Systems,9490260445
+54,73,U Subba Rao,Ground Systems,Scientist E,Ground Systems,9440340034
+55,74,VV Siva kumar,Ground Systems,Scientist E,Ground Systems,7382618815
+56,76,CB Chandra Kumar ,Ground Systems,TO-D,Ground Systems,9391008294
+57,77,G Nagesh,Ground Systems,TO-A,Ground Systems,9494269222
+58,78,P J Srikanth,MRSAM,Scientist G,MRSAM,9441469135
+59,79,T Shirisha ,NASM-SR,Scientist G,MRSAM,9490956112
+60,80,Dr. AG Vasu,MRSAM,Scientist G,MRSAM,9492245415
+61,81,A K Pathak,MRSAM,Scientist G,MRSAM,9440966724
+62,83,PJ Srikanth,MRSAM,Scientist F,MRSAM,9441469135
+63,84,Devasish Dey,SAAW,Scientist F,SAAW,9441070560
+64,85,GLV Prasad,MRSAM,Scientist F,MRSAM,9441284579
+65,89,J Uma Shanker Rao,MRSAM,Scientist E,MRSAM,9441229766
+66,90,K Srinivas Naik,MRSAM,Scientist E,MRSAM,9441743843
+67,92,M N L Sravanthi,MRSAM,Technical Officer C,MRSAM,9441661711
+68,93,C Hari Prasad,MRSAM,Technical Officer B,MRSAM,9494247947
+69,94,K Aruna,MRSAM,Technical Officer C,MRSAM,9490932676
+70,95,G Shiva Kamesh,MRSAM,Technical Officer A,MRSAM,9948175453
+71,96,S Atchyuth,MRSAM,Technical Officer A,MRSAM,9490900300
+72,97,Vishal Kumar,DRFT,Scientist E,ASSSM&SD,9493542145
+73,98,Vishal Kumar,DRSS,Scientist E,ASSSM&SD,
+74,99,Vishal Kumar ,DRSS,Scientist E,ASSSM&SD,
+75,100,Vishal Kumar,DRSS,Scientist E,ASSSM&SD,
+76,101,S. Prasad Rao,LRGB,"Scientist H,OS",LRGB,9441327710
+77,102,D N VARMA,LRGB,Scientist G,Garuda I,9441117736
+78,104,Manoj Kumar,RUDRAM-III,Scientist G,LRGB,9490166620
+79,105,VK Kabra,SAAW,Scientist G,SAAW,9848016015
+80,106,Siddarth Thakur,SAAW,Scientist F,SAAW,9490755998
+81,107,B Vijaya Lakshmi,SAAW,Scientist F,SAAW,9490166526
+82,108,Naresh Bhukya,SAAW,Scientist D,SAAW,9494787011
+83,110,Santosh kumar,SAAW,STA-B,SAAW,9493261280
+84,111,B.R.K. Reddy,DRFT,"Scientist H,OS",RFSS,9490956877
+85,112,J Gayathri,DRFT,PA-C,RFSS,9573886917
+86,113,Sujatha Ravichandran,DRFT,"Scientist H,OS",DRSS,9490402417
+87,114,Rajesh Dubey,DRSS,Scientist E,DRSS,9441015987
+88,115,H Madhukar,DRFT,Scientist F,RFSS,9492924872
+89,116,Vikas Patel,DRFT,Scientist D,RFSS,8985040884
+90,117,Dr.D. R. Jahagirdar,DRFS-1,Scientist G,RSAD,9440613548
+91,118,Rajendra Kumar Bhatta,DRFS-1,Scientist E,RSAD,9490730561
+92,119,V Satish Reddy,DRFS-1,Scientist E,RSAD,9441455138
+93,120,M Swetha,DRFS-1,Scientist E,RSAD,9246211282
+94,121,K Sambasiva Rao,DRFS-1,Scientist E,RSAD,9494539477
+95,122,Muthu Azhagan,DRFS-1,TO-B,RSAD,8374409466
+96,124,P Peraiah Sastry,DRFS-1,Scientist F,MMWS & HAPSD,9491878850
+97,125,"A Venkat Reddy,DH",DRFS-1,Scientist F,MMWS & HAPSD,9490463190
+98,126,Dr.Tapas Kumar Pal,DRFS-1,Scientist F,MMWS & HAPSD,9440317831
+99,127,Arindam Das Gupta,DRSS,Scientist F,MMWS & HAPSD,9831803391
+100,128,Nilang Trivedi,DRFT,Scientist F,MMWS & HAPSD,9490304710
+101,129,Neelesh Tayade,DRFS-1,Scientist E,MMWS & HAPSD,9490463093
+102,130,Manish Kumar,DRFS-1,Scientist D,MMWS & HAPSD,9493193854
+103,131,A Srilakshmi,DRFS-1,Scientist E,MMWS & HAPSD,9440846029
+104,132,B Padmaja Saran,DRFS-1,TO-C,MMWS & HAPSD,8331972941
+105,133,Hemanth Tadisetti,DRFT,STA-B,MMWS & HAPSD,8500702045
+106,136,N Narasimha Murthy,DRFS-2,Scientist G,RFSD-2,9490956016
+107,137,N Narasimha Murthy,DRFS-2,Scientist G,RFSD-2,
+108,139,Manish Kumar Nalamwar,DRFS-1,Scientist F,RSSD,7382297483
+109,140,Shampa Sarkar,DRFS-2,Scientist E,RFSD-2,9490956501
+110,141,G Gautam Reddy,DRFS-2,Scientist E,RFSD-2,8985675020
+111,142,R Ramesh,DRFS-1,Scientist D,RSSD,9493130021
+112,144,G Lavanya,DRFS-2,TO-A,RFSD-2,9490748516
+113,145,T Krishana Vallabhadasu,DRFS-2,TO-A,RFSD-2,7416514189
+114,146,Abhishek Kumar Jha,DRFS-2,STA-B,RFSD-2,9412000882
+115,147,N Ravoji Naik,DRFS-2,Technical Assista,RFSD-2,9490807804
+116,149,Dr.(Retd) B P Sagar (IDST),DRFT,Scientist G,RMD,9440058970
+117,150,U Ramesh Babu,DRFT,SR AA,RFSS,9490365915
+118,154,Rajender Daggula,DRFT,Scientist F,RPF,9490956540
+119,155,Vijay Bhaskar Chanda,DRFT,Scientist F,RPF,9493050315
+120,156,K V Sreedevi,DRFT,TO-C,RPF,9490403254
+121,158,"S.B. Gayen, DH",DRFS-1,Scientist G,DSP,9440485207
+122,159,S. Madhavi,DRFS-1,Scientist F,DSP,9490956097
+123,160,A Kavitha,DRFT,Scientist F,RFSS,9989149110
+124,161,K Murali Krishana,DRFS-1,Scientist E,RFSS,9493984639
+125,162,Md Juned Ansari,DRFS-1,Scientist D,DSP,9966858893
+126,163,Vipul Kumar Bharati,DRFS-1,Scientist E,DSP,9493984709
+127,164,D Balu,DRFS-1,TO-B,DSP,9959584297
+128,165,M Gangadhara,DRFS-2,Scientist G,RFSD-2,9490748080
+129,166,N S Chary,DRFS-2,Scientist F,RFSD-2,9490166667
+130,168,M Veerandra ,DRFS-2,Scientist E,RFSD-2,9493799452
+131,169,M Rambabu ,DRFS-2,Technical Officer,RFSD-2,9494382733
+132,170,P Sunil,DRFS-2,Technical Officer,RFSD-2,9441666862
+133,171,V Ashoka Reddy (Retd),DRFT,Scientist G,DRSS,9440399955
+134,172,S Ramesh,DRFT,Scientist F,SEI&TD,9490422611
+135,174,V Ashoka Reddy,DRFT,Scientist G,DRSS,
+136,176,Dr. V Sarala,DRFT,Scientist G,DRSS,9490956102
+137,177,GV Ramakoteshwara Rao,DRFT,Scientist F,DRSS,9490956039
+138,178,Joita Mukherjee,DRFT,Scientist F,RA & SD,9490956100
+139,179,Dr. R Manivannan,DRFT,Scientist E,RA & SD,9490470522
+140,180,Siddharth Varshney,SINT- E,Scientist D,SINT-E,8445865000
+141,181,CH Anil Kumar,DRFT,Scientist E,RA & SD,7382609029
+142,182,RB Abhishek,DRFT,TECH-B,RA & SD,9490943568
+143,183,Sanjay Kumar,DRFT,TECH-A,RA & SD,9685852257
+144,184,Niranjan Patiram Gharsele,DRFT,TECH-A,RA & SD,9689334279
+145,185,Yogesh Kumar Verma,DRFT,Scientist G,ASSSM&SD,9490748212
+146,186,M Jyothi,DRFT,Scientist F,ASSSM&SD,9493784198
+147,187,Ch Ravi Kumar,DRFT,Scientist E,ASSSM&SD,9492362518
+148,188,E Srinivas,DRFT,Scientist E,ASSSM&SD,9866098844
+149,190,Nagaraju Dovari,DRFT,Scientist D,ASSSM&SD,9505715789
+150,191,Debasis Nandi,DRFT,TECH-A,ASSSM&SD,9853602226
+151,193,Sandeep M Satav,DEM,Scientist G,EMI/EMC,
+152,195,Sandeep M Satav,DEM,Scientist G,EMI/EMC,
+153,196,R Rajya Lakshmi,DEM,Technical Officer C,EMI/EMC,9490166535
+154,200,Deepak Agarwal,DRFT,Scientist G,MED,9440766246
+155,201,Bivin G Mathew,DRFT,Scientist B,MED,9446264437
+156,203,Rakesh Kumar Singh,DRFT,Scientist G,,9490956026
+157,205,D Ratan Sanjay,DRFT,Scientist F,,9440681443
+158,206,Nitin Chourasia,DRFT,Scientist F,,9490956025
+159,207,V Dharmanandam,DRFT,TO-C,,9490956133
+160,208,Sudhir Kumar,DRFT,TO-A,,8096105416
+161,209,Rakesh Kumar Singh,DRFT,Scientist F,,
+162,210,T V Rao,DRFS-2,Scientist F,RFSD-2,9603383073
+163,211,S V Narasa Raju,DRFS-2,TO-C,RFSD-2,9490748097
+164,212,B R K Reddy,DRFT,"Scientist H,OS",RFSS,
+165,213,GV Ramakoteshwara Rao,DRFT,Scientist F,DRSS,
+166,218,S S Reddy Kumar,DCMM,Scientist F,SAG ,9490166668
+167,219,Rajitha G,DCMM,TO-A,BILLS / BPD,9490440817
+168,220,Saritha Fulmamdikar,DCMM,TO-C,GEM,9959174616
+169,222,Sree Laxmi M,DCMM,Technical Officer,AUDIT,9951442692
+170,223,M Santosh Kumar,DCMM,SO,MRID,9494228732
+171,224,Arvind Kumar Pathak,DCMM,Scientist G,SEC,9440966724
+172,226,Ramesh T,DCMM,Technician B,MRID,8331090278
+173,228,Gopal MVR,DCMM,Sr.SA,CST/TOC,9948280639
+174,231,Munmun Kumar Dash,DCMM,Senior Store Assi,POST PURCHASE,8336817144
+175,232,Rameshwar K,DCMM,TO-A,OGL,9652286531
+176,233,Abhay Prakash,DCMM,STA-B,GEM,9493559331
+177,235,Vinit Kumar,DCMM,Senior Store Assi,SPG,8295102011
+178,236,Jayanthi S,DCMM,Senior Store Assi,Tender,7382570461
+179,238,Indrapal singh,DCMM,Stores Officer,CS,8341897891
+180,247,Lt Col Sumeet Sharma (SM),DCMM,Lt Col,SPG,
+181,252,Padamaja B,DCMM,ALS - B,BILLS / BPD,9951987283
+182,253,Dr. V G Sekaran,DSST,DRDO CHAIR,,9440616314
+183,254,S Rani Surender,DSP,Scientist G,,9490956070
+184,255,S K Patra,DSP,DRDO Fellow,,9652504242
+185,256,PSR Srinivasa Sastry,DSP,"Scientist H,OS",,9440455525
+186,257,Pradeep Kumar,,Scientist F,ASAM,9440390602
+187,259,PSR Srinivasa Sastry,DSP,"Scientist H,OS",,9440455525
+188,262,Rukmini Banda,DSP,Scientist F,,9490956083
+189,263,Dr A Swarna Bai,DSP,Scientist F,,9491085616
+190,265,D Mallikarjuna Reddy,DSP,Scientist F,,9490016792
+191,266,SS Paramahamsa,DSP,Scientist F,,9490797061
+192,267,K Shreedhar Babu,DSP,Scientist F,,9441224024
+193,268,Unnata Layek,DSP,Scientist F,,9490956602
+194,269,Suvir Kumar,DSP,Scientist F,,9440545922
+195,270,Gandham Ramesh,DNS,Scientist F,,9440543294
+196,271,Arun kumar Mahodaya,DSP,Scientist F,,9441057783
+197,272,N Beebamma,DSP,Scientist E,,9491085738
+198,273,Santosh Prasad,Garuda I,Scientist F,Garuda I,9440338061
+199,274,Rishikesh,DSP,Scientist F,,9440509038
+200,276,Netra Singh,DSP,Scientist E,,8096309964
+201,277,,DSP,Scientist E,,
+202,278,G Ramu,DSP,Scientist E,,9491378492
+203,279,P Srinivas  ,DRFS-1,Scientist E,,9440122259
+204,280,Devi Prasad Panda P,DSP,Scientist E,,9951066882
+205,281,Praveen Garg,DRFS-1,Scientist D,,8501099072
+206,283,Deepthi Thadi,DSP,Scientist D,,8106115894
+207,284, Samapty Senapati,DSP,Scientist C,,7207413646
+208,285,K Bhanu,DSP,AO,,9959360075
+209,286,M Prasanna Kumar,DSP,SA-B,,8074792885
+210,288,L Narshimulu,DSP,Tech-C,,9848950161
+211,289,Satish Mourya,DSP,TO-A,,9493557527
+212,290,Seena Reddy,DSST,,,
+213,291,Surla Venkatesh,DSP,Sr. Technical Assistant B,,8333830057
+214,293,Unnata Layek,DSP,Scientist F,,
+215,295,N Beebamma,DSST,Scientist E,,
+216,299,Security Gate,DSP,,,
+217,300,P Shrihari,SINT-E,Scientist G,AD Int,9441952525
+218,301,Prabhakar M More,SINT-E,Scientist G,,9441796019
+219,302,K Hanumesh,SINT-E,Scientist G,ASAM,9490956080
+220,303,M Ravi Kumar,SINT-E,Scientist G,SINT-E,9490166886
+221,304,A Srinivasa Murty,SINT-E,Scientist F,,9440445326
+222,306,Harish Kuqshal,SINT-E,Scientist F,,9490956074
+223,307,Rajnish Kumar Choubey,SINT-E,Scientist F,,9440922420
+224,309,VJVR Murthy,SINT-E,Scientist F,,9490943897
+225,310,P Vishnu Vardhan,SINT-E,Scientist F,,9491085660
+226,311,B Narahari,SINT-E,Scientist F,,9440121914
+227,312,Sanjay Kumar Gupta,SINT-E,Scientist F,,9440002700
+228,313,V Gopala Krishan,SINT-E,Scientist F,,9490002480
+229,316,Khaja Rahamthulla SK,SINT-E,Scientist E,,8332920309
+230,317,C Bhasker Reddy,SINT-E,Scientist F,,9490956892
+231,318,Madan Lal Kasotiya,SINT-E,Scientist E,,9494237296
+232,319,Kasu VSRS Sekhara Rao,SINT-E,Scientist D,,9490956069
+233,320,Siddharth Varshney,SINT-E,Scientist C,,8445865000
+234,324,Sanjay Kumar,SINT-E,TO-B,SINT -E,9440003900
+235,325,E J Benny,SINT-E,Technical Officer B,,9440950900
+236,328,L Hemamalini,Cybernetics Systems,Scientist E,,9704712666
+237,329,Sharique Ali,Cybernetics Systems,Scientist E,,9437155069
+238,330,G. Gautham Raj,Cybernetics Systems,Scientist C,,9441688142
+239,331, B Lingaswamy,Cybernetics Systems,STA-B,,9705543566
+240,332,Dr MSY Shiva prasad,PROJECT RUDRAM-II,Scientist G,,9440330430
+241,333,B Someswara Rao,PROJECT RUDRAM-II,Scientist F,,9490749732
+242,334,R Yogananda Reddy ,PROJECT RUDRAM-II,Scientist G,,9440822691
+243,335,D Naga Raju,PROJECT RUDRAM-II,Scientist F,,9490956032
+244,337,Arijit Paul,PROJECT RUDRAM-II,Scientist F,,9490730655
+245,338,Ajay Tyagi,PROJECT RUDRAM-II,Scientist E,,7382609499
+246,339,Abhijit Awale,PROJECT RUDRAM-II,Scientist D,,8500250883
+247,340,Srinibaso Goud,PROJECT RUDRAM-II,TO-C,,9490956035
+248,341,Dr MSY Siva Prasad,PROJECT RUDRAM-II,Scientist G,,9440330430
+249,345,Dr.A Ram Chander Rao,DLS,Scientist F,ELORIA,9490431767
+250,346,M K Gupta,DLS,Scientist F,ELORIA,9441735789
+251,348,Dr S Surendra Babu,DLS,Scientist E,DLS,9948452646
+252,349,Dr. Garima Tripathi,DLS,Scientist E,ELORIA,8985025410
+253,350,G Laxminarayana,DLS,Scientist E,ELORIA,9490410420
+254,353,N Bhanu Vardhan,DLS,Scientist D,ELORIA,
+255,355,N Anil K,DLS,STA-B,ELORIA,9652502319
+256,357,N Sivasubramaniam,PRITHVI (PS&PU) & NASM,"Scientist H,OS",,9440422333
+257,358,K Sahadev,PRITHVI (PS&PU) & NASM,Scientist G,,9490166944
+258,359,Baride Anand,NASM-SR,Scientist F,,9440449365
+259,360,C Sreekanth,NASM-SR,Scientist F,,9490022301
+260,361,Kanishka Biswas,NASM-SR,Scientist F,,9440390953
+261,362,R Satyanarayana,PRITHVI (PS&PU) & NASM ,Scientist D,,9494788018
+262,363,EDA Bhushana Rao,PRITHVI (PS&PU) & NASM ,TO-C,,8500289293
+263,364,C Sreekanth,NASM-SR,Scientist F,,9490022301
+264,365,MV Subbaiah,NASM-SR,TO-B,,9492053154
+265,366,Sandeep M Satav,ENTEST,Scientist G,,9440005400
+266,367,V V Subrahmanyam,ENTEST,TO-C,,9490790201
+267,368,V V Subrahmanyam,ENTEST,TO-C,,
+268,369,V V Subrahmanyam,ENTEST,TO-C,,9490797050
+269,370,Umesh Agrawal,ENTEST,Scientist G,PETF,
+270,371,Umesh Agrawal,ENTEST,Scientist G,PETF,
+271,372,Satish Chnadra Upadhyay,ENTEST,TO-B,SVD,9490956028
+272,373,,ENTEST,SO,,9849741742
+273,374,A Rajaiah,ENTEST,Scientist F,PETF,
+274,375,Umesh Agrawal,ENTEST,Scientist G,PETF,9490748539
+275,376,Umesh Agrawal,ENTEST,Scientist F,CTD,
+276,377,Satish Chnadra Upadhyay,ENTEST,TO-B,CTD,
+277,378,Satish Chnadra Upadhyay,ENTEST,TO-B,CTD,
+278,379,Satish Chnadra Upadhyay,ENTEST,TO-B,CTD,
+279,380,Satish Chnadra Upadhyay,ENTEST,TO-B,CTD,
+280,381,Numit Rai,Pinaka Project,Lt Col,PINAKA,8686002048
+281,382,Dr Krishna Menon,HPT&P,Scientist F,MEMS,9490956123
+282,384,Umesh Agrawal,ENTEST,Scientist F,CTD,
+283,385,Umesh Agrawal,ENTEST,Scientist F,CTD,
+284,386,Umesh Agrawal,ENTEST,Scientist F,SVD & CTD,9490748539
+285,387,S Srinivas,ENTEST,Scientist F,SVD,9490451589
+286,388,Umesh Agrawal,ENTEST,Scientist F,SVD,
+287,390,L. Viswanadham,ENTEST, Sc-E,SVD,
+288,391,SY Veerabhadra Reddy,ENTEST,Scientist F,SVD,9490020010
+289,393,K Srinivasa Chary ,ENTEST,Technical Officer,SVD,
+290,395,K Srinivasa Chary ,ENTEST,Technical Officer B,SVD,
+291,400,A Karthik,ENTEST,Scientist E,SVD,9490166625
+292,401,P Sampath Kumar,ENTEST,Scientist E,SVD,9492042251
+293,402,Anjan Kumar,ENTEST,Store Asst B,SVD,
+294,403,P Atchuta Ramayya,ENTEST,Scientist F,SDAT,9440729431
+295,406,N Mallikarjun Naik,ENTEST,Scientist E,SDAT,9440596307
+296,408,M Rajesh,ENTEST,TO-C,SDAT,9705625095
+297,410,Bibhu Satyam,ENTEST,Scientist E,SDAT,9493861215
+298,413,N Mallikarjun Naik,ENTEST,Scientist E,SDAT,
+299,416,V Govinda Rao,ENTEST,Scientist F,SVD,
+300,417,V Govinda Rao,ENTEST,Scientist F,SVD,
+301,418,V Govinda Rao,ENTEST,Scientist F,SVD,
+302,420,Loknath Sahu,ENTEST,TO-A,PETF,
+303,421,B Surendra Kumar,ENTEST,TO-B,PETF,
+304,422,V Govind Rao,ENTEST,Scientist F,PETF,9490956015
+305,423,Loknath Sahu,ENTEST,Technical Officer C,PETF,9440729121
+306,424,B Surendra Kumar,ENTEST,TO-B,PETF,9640377294
+307,426,DL Seshagiri Rao,NECS,Scientist G,DESG,9490956086
+308,428,Aditya Bharti,DR & QA,Scientist D,QM,8985040886
+309,429,EV Subba Rao,DR & QA,Scientist F,,
+310,432,KC  Nancharaiah,,Scientist F,RUDRAM-IV,9493876142
+311,433,Anand P Dabhade,DR & QA,Scientist F,,9440432789
+312,434,Sujatha,LRGB,Scientist F,LRGB,9441809255
+313,435,S Muthu Kumar,DR & QA,Scientist F,SQAD,9441244170
+314,436,M Tirupal Naick,DSQA,Scientist E,SQAD,9440482726
+315,437,Ashok De,DSQA,Scientist E,SQAD,9441057807
+316,438,R Rajesh Kumar,DR & QA,Scientist E,,8331849058
+317,439,S Raghavender Rao,DSQA,Scientist E,SQAD,9440331349
+318,440,Anoop,DSQA,Scientist D,SQAD,9490994406
+319,441,Pankaj Kumar Singh,DSQA,Scientist E,SQAD,9010966251
+320,442,Reena V,DSQA,Scientist D,SQAD,9440819741
+321,445,Th Rajashekar,SANT,Scientist D,TARA Project,9490372291
+322,446,Shobhit Kumar Singh,DR & QA,Sr. Technical Ass,,8127095185
+323,447,Aditya Bharathi,DR & QA,Scientist D,,
+324,448,Vikash Kumar,DR & QA,Sr. Technical Ass,,8409607820
+325,450,B Pavan Reddy,DR & QA,Technical Officer B,,9490385340
+326,451,Rajendra Prashad,DR & QA,STA -B,,7654530338
+327,452,Awadesh Kumar Yadav,T F C,TO-A,Safety Eng,9440306416
+328,455,Shobhit Kumar Singh,DR & QA,Sr. Technical Ass,,8127095185
+329,456,R Jai Singh,DR & QA,TO-C,,9490956122
+330,458,Tarun Mohindra,DP & HR,Scientist G,HRDG,8126013153
+331,459,Umamaheshwar Reddy,DP & HR,Technical Officer,TIRC,9440876020
+332,462,Umamaheshwar Reddy,DP & HR,Technical Officer,TIRC,9440876020
+333,463,Shri Kaushik Ghoshal,DP & HR,Scientist F,Planning,9490956047
+334,468,Umamaheshwar Reddy ,DP & HR,TO-B,TIRC,9440876020
+335,469,K Naresh Kumar,DP & HR,TO-C,Planning,9441456346
+336,470,E Ashok Kumar,DP & HR,STA-B,HRDG,9848693445
+337,471,V Rama Devi ,DP & HR,Tech-A,HRDG,8096110532
+338,472,Sri D Venugopal,DP & HR,Senior Admin Assi,Budget,9505839040
+339,473,Laxman Hembram,DP & HR,Admin Asst A,HRDG,8008506714
+340,474,Deb Kumar Ghosh,,Scientist F,TARA Project,9494231851
+341,475,K R Tolia,SANT,Scientist F,MLPGM,9490956020
+342,476,Kaushik Goshal,DP & HR,Scientist F,MLPGM,9490956047
+343,477,Ritesh Kumar Kanojiya,RUDRAM-III,Scientist F,MLPGM,9490956064
+344,478,Deb Kumar Ghosh,,Scientist F,TARA Project,
+345,479,Apratim Talukdar,,Scientist E,TARA Project,
+346,481,K Suchendar,DICT,Scientist G,ER&CS,
+347,483,P Ramadevi,DICT,Scientist F,ER&CS,9440380608
+348,485,D Praveen Kumar,DICT,Scientist E,ER&CS,9133444509
+349,486,Amit Kumar Gupta,DICT,Scientist E,ER&CS,9010380295
+350,490,Dr. Santanu Chatterjee,DICT,Scientist E,ER&CS,9100281025
+351,491,Abhishek Kesari,DICT,Technical Officer B,ER&CS,9553676846
+352,492,D Kamala,DICT,TO-A,ER&CS,9490462936
+353,493,Bipin Kumar,DICT,Technical Officer A,ER&CS,9128951504
+354,497,Amit Kumar Gupta,DICT,Scientist E,ER&CS,
+355,498,Tilak Sarmah,,Scientist F,TARA Project,9490956167
+356,500,Vinod Kumar Mahor,DESG,Scientist E,DESG,9440745665
+357,503,Dr. Santanu Chatterjee,DICT,Scientist E,ER&CS,
+358,504,P Ramadevi,DICT,Scientist F,ER&CS,
+359,506,Raj Dev Gangwar,DICT,Scientist B,ER&CS,8766271655
+360,507,Dr Santanu chatterjee,DICT,Scientist E,ER&CS,
+361,510,SANTOSH KUMAR,,Scientist F,ASAM,9490956022
+362,511,SANTOSH KUMAR ,DICT,Scientist F,CND,9490956022
+363,514,Dr Santanu Chatterjee,DICT,Scientist E,CND,
+364,515,Dr santanu Chatterjee,DICT,Scientist E,ER&CS,
+365,517,P Ramadevi,DICT,Scientist F,CND,
+366,518,Amrit Rao G,DICT,TECH-B,CND,9493557625
+367,519,G.Vijaya Shankar,DECS,Scientist G,DECS,9490166507
+368,520,Jyothi A,DECS,TO-B,DECS,9490724277
+369,521,G Vijaya Sankar,DECS,Scientist G,DECS,9490166507
+370,522,JV Satyanarayana,DEAIS,Scientist G,DEAIS,9490166736
+371,524,T Venkata Mani,DECS,Scientist G,DECS,9490166661
+372,525,Deepak Bekal,DESG,Scientist F,DESG,9490166599
+373,526, Rashad T S,DECS,Scientist F,DECS,
+374,527,C Ramesh Reddy,DECS,Scientist F,DECS,9490796419
+375,529,KC Das,DNS,Scientist F,,
+376,530,Sameer N Kadam,DECS,Scientist F,DECS,9493411465
+377,532,Anandita Das,DESG,Scientist F,DESG,9490402933
+378,534,Aleena Sasi Kumar,DESG,Scientist F,DESG,9490166819
+379,535,Saswata Maitra,DECS,Scientist F,DECS,9493984544
+380,537,Patta Bhanu Srinivas,DESG,Scientist F,DESG,9440611008
+381,539,MV Rajashekar,DESG,Scientist G,DEAIS,9490116033
+382,540,K Naveen,DESG,Scientist F,DESG,9490478739
+383,541,K L Rajashekar,DECS,Scientist F,DECS,9440467109
+384,542,P Neeraja,DECS,Scientist F,DECS,9490166973
+385,543,K Deepti,DECS,Scientist E,DECS,9490214748
+386,544,K Nagamalleshwara Rao,DESG,Scientist E,DESG,9492754404
+387,545,G Maruthi,DECS,Scientist E,DECS,9493864853
+388,547,Prem Nair,DEAIS,TO-A,DEAIS,9490654800
+389,548,Rupak Kundu,DESG,Scientist E,,9404728343
+390,550,S. Vijaya Lakshmi,DECS,Scientist D,DECS,9490402708
+391,553,J.Usha Bala,DECS,PA-C,DECS,9441263564
+392,554,Deepti Nandita,DECS,Technical Officer B,DECS,9951853570
+393,555, Prabhu Prasad,DESG,Scientist F,DESG,8331878496
+394,556,Shailesh kumar,DNS,Scientist F,,9441300271
+395,557,V Srinivas Kumar,DNS,TO-B,ISG,9948882573
+396,558,K. Sujatha ,DESG,Scientist F,DESG,9490956075
+397,559,MV. Rajashekar,Pinaka Project,Scientist F,CGSID Group,9490116033
+398,560,A Madu Kumar,MRSAM (ARMY),Scientist F,MRSAM (ARMY),9490956049
+399,561,AV. Mruthi Sairam,DECS,Scientist F,MODAC,9440986386
+400,562,Mahender K,DESG,Scientist F,DESG,7901054927
+401,563,Hemanth  Kumar Rathore,DESG,Scientist F,CGSID Group,9440359538
+402,564,K.Rama Rao,DESG,Scientist E,DESG,9490166846
+403,565,Dr G Satheesh Reddy  ( DGMSS),DNS,DS,ISG,
+404,566,M Kannan,DNS,Scientist G,DNS,9440970450
+405,567,Vivek Kumar Sharma,DNS,Scientist F,ISG,9490166827
+406,568,Branjnish Sitara,DNS,Scientist F,ISG,9490166579
+407,569,Vivek Kumar Sharma,DNEC,Scientist F,ISG,9490166827
+408,570,Abhishek Agarwal,DNS,Scientist E,ISG,7382618760
+409,571,Seela Harita,DNS,Scientist E,ISG,9490166578
+410,572,Ketan Kumar Nagle,DNS,Scientist C,ISG,9981292902
+411,573,T Rajini,DNS,Scientist D,ISG,9440516455
+412,575,DS Reddy,DNS,DRDO Fellow,ISG,9440055191
+413,576,Abhishek Agarwal,DNS,Scientist E,ISG,
+414,577,Saumya Shanker,DNS,Scientist F,ISG,9493983185
+415,579,G Yadagiri,DNS,Consultat,ISG,9441282645
+416,580,Smt Vijaya Sree,DNS,TO-D,ISG,
+417,581,Bhuwaneshwar Prasad,DNS,TECH-B,ISG,9441471680
+418,582,R Balakrishna ,DNS,Scientist E,ISG,9490447249
+419,583,T Murgesh,DNS,Scientist D,ISG,9866463341
+420,585,Swetha Padma Mishara,DNEC,Scientist F,ISG,9490232864
+421,586,Soumi Chakraborthy,DNS,Scientist E,ISG,7382459785
+422,587,M Kannan,DNS,Scientist G,,
+423,588,M Kannan,DNEC,Scientist G,,9440970450
+424,589,"Sandeep , M/S BDL",DNS,Manager,ISG,9492932150
+425,590,B Ramesh Kumar,DNS,Scientist F,ISG,9440794406
+426,591,N Narender,DNS,Scientist E,ISG,9440336565
+427,592,G Murali Krishna,DNS,Scientist F,ISG,9490166540
+428,593,R Prashant Rai,DNS,Scientist E,ISG,9491677500
+429,594,Ayanesh Biswas,DNS,STA-B,ISG,9674243834
+430,595,Nimish Garg,DNS,Scientist B,ISG,
+431,596,J Somaiah,DNS,Scientist F,ISG,9848949631
+432,597,Chikka Nithin,DNS,TO-A,ISG,9618013407
+433,598,Smt M Vijaya Sree,DNS,TO-D,ISG,9490166500
+434,599,Anil Badiger,DNS,Scientist F,ISG,9440456531
+435,601,Gopala Krishna Murthy,DNS,Scientist F,ISG,9490475791
+436,602, Smt Runa Debnath,DNEC,Scientist E,ISG,9490447554
+437,606,Madhu Sudhan,DNEC,TO-C,ISG,9848726118
+438,607,NVN Rao Pasalapudi,DNS,Scientist F,ISG,9490797080
+439,608,Smt Runa Debnath,DNS,Scientist F,ISG,9490447554
+440,609,Shri B Venu Gopal ,DNS,Scientist F,ISG,9493979985
+441,610,Shri RS Chandra  Sekhar,DNS,Scientist F,ISG,9490480430
+442,611,Shri Sanjay Das,DNS,Scientist E,ISG,7382306722
+443,612, Sanjay Das,DNS,Scientist E,ISG,7382306722
+444,613,NDR Suman,DECS,Technical Officer C,DECS,9440845940
+445,614,G Vijaya Shankar,DECS,Scientist G,DECS,
+446,615,NDR Suman,DNEC,Technical Officer C,ISG,9440845940
+447,616,Sameer Kadam,DECS,Scientist F,ISG,
+448,618,M Kannan,DNEC,Scientist G,,
+449,619,R Gopal Naik,DNS,Scientist G,FOSD,9440836776
+450,620,MP Unnikrishnan,DNS,Scientist F,FOSD,9440560572
+451,622,SS Reddy Kumar,DCMM,Scientist F,PINAKA,9490166668
+452,623,Ajay Prakash ,DNS,Scientist E,FOSD,9490994407
+453,624,Hari Shankar Singh,DNS,Scientist F,FOSD,9490166737
+454,625,Gopal Krishna Murthy ,DNEC,Scientist F,,
+455,626,CHVV Satyanarayana,DNS,Scientist F,FOSD,9493557779
+456,627,R Ravi Chandra,DNS,TO-A,FOSD,9491876794
+457,628,KC Das ,DNS,Scientist F,Clean Room,
+458,629,KC Das ,DNS,Scientist F,HRG/VQ LAB,
+459,630,KC Das ,DNS,Scientist F,Clean Room,
+460,631,KC Das ,DNS,Scientist F,HRG/VQ LAB ,
+461,632,KC Das ,DNS,Scientist F,HRG/VQ LAB ,
+462,633,KC Das ,DNS,Scientist F,HRG/VQ LAB ,
+463,634,KC Das ,DNS,Scientist F,HRG/VQ LAB ,
+464,635,G Krishna Prasad,DNS,Scientist F,FOSD,9440350192
+465,643,Pulak Halder,DHILS,Scientist G,,"9440543341,9"
+466,645,K Praveen Kumar,DHILS,Scientist F,,9490166547
+467,646,Pulak Halder,DHILS,Scientist G,,9440543341
+468,647,Samir B Patel,DHILS,Scientist G,,9440543340
+469,648,LAV Sanhith Rao,DHILS,Scientist F,,
+470,649,A Shiva Krishna Prasad,DHILS,Scientist E,,9490166836
+471,650,LAV Sanhith Rao,DHILS,Scientist F,,9490956012
+472,651,B Srinivasa Rao,DHILS,Scientist F,,9490956159
+473,653,M Srinivasa Rao,DHILS,Scientist F,,940389979
+474,655,K Rajesh Shankar,DHILS,Scientist F,,9490956052
+475,656, Amrita Singh,DHILS,Scientist F,,9441604326
+476,657,R Kranthi Kumar ,DHILS,Scientist F,,9490116032
+477,658,K. Praveen Kumar,DHILS,Scientist F,,
+478,659,R Kranthi Kumar,DHILS,Scientist F,,9490116032
+479,660,M Gangadhar,DHILS,Scientist E,,9494156788
+480,662,CH Naveen Kumar,DHILS,Scientist D,,9972628760
+481,663,S Satish Kumar,DHILS,TO-B,,9490166715
+482,664,N Suresh Babu,DHILS,TO-A,,9440924696
+483,665,Amrita Singh,DHILS,Scientist F,,
+484,666,Pulak Halder,DHILS,Scientist F,,
+485,667,Pulak Halder,DHILS,Scientist F,,
+486,668,AShiva krishna Prasad,DHILS,Scientist E,,
+487,669,LAV Sanhith Rao,DHILS,Scientist F,,
+488,670,B Srinivasa Rao,DHILS,Scientist F,,
+489,671,K Rajesh Shankar,Project VSHORADS,Scientist F,,9490956052
+490,672,M Gangadhar,DHILS,Scientist F,,
+491,673,K Praveen Kumar,DHILS,Scientist F,,9490166547
+492,674,A Shiva Krishna Prasad,DHILS,Scientist E,,
+493,675,S Satish Kumar,DHILS,TO-B,,
+494,676,B V Rao,DIIRS -1,"Scientist H,OS",,9490956055
+495,678,K Venkata Ravi,DIIRS -1,Scientist G,,9490956057
+496,679,V Sridhar,DIIRS -1,Scientist G,,9440938957
+497,680,Dr S Satyavathi,DIIRS -1,Scientist F,,9490956127
+498,681,Shrilatha Menon,DIIRS -1,Scientist F,,9441184687
+499,682,R Rajeswari,DIIRS -1,Scientist F,,9490956034
+500,683,M Murali Mohan,DIIRS -1,Scientist F,,9848810488
+501,684,P Naveen ,DIIRS -1,Scientist E,,9490166543
+502,685,CH Kesva Rao,DIIRS -1,Scientist E,,9490956046
+503,686,A Nageshwar Reddy,DIIRS -1,Scientist D,,9492435669
+504,687,Viabhav Vijay Kumar Patil,DIIRS -1,STA-B,,8483048051
+505,688,Mani Shankar Shahi,DIIRS -1,Scientist D,,8096058750
+506,690,Kamlesh,DIIRS -1,Scientist C,,8500849731
+507,691,G Bhaskara Rao,DIIRS -1,TO-B,,9490410723
+508,692,S Narsing Rao,DIIRS -1,PA-C,,9848486949
+509,693,Ranen Debnath,DIIRS -1,Scientist B,,9494475824
+510,695,Ratnesh Kumar Gupta,DIIRS -1,STA-B,,7631188414
+511,696,D Narsimha,DIIRS -1,TECH-B,,9912154858
+512,697,Haripada Barik,DIIRS -1,STA-B,,7205105279
+513,698,K Venkata Ravi,DIIRS -1,Scientist G,,
+514,701,,DIIRS-2,"Scientist H,OS",,9490956115
+515,702,Mahasweta Bakshi,DIIRS-2,Scientist G,,9490956114
+516,703,M Ideramma,DIIRS-2,Scientist F,,9490956005
+517,704,T Shirisha,DIIRS-2,Scientist G,,9490956112
+518,705,H K Sharma,DIIRS-2,Scientist F,,7286055550
+519,706,N Subba Raju,DIIRS-2,Scientist F,,9440277740
+520,708,N Padmja,DIIRS-2,Scientist F,,9490956053
+521,709,Pranab Sarkar,DIIRS-2,Scientist F,,9490956042
+522,710,B Suresh Kumar,DIIRS-2,Scientist F,,9848463687
+523,711,N Vijaya Lakshmi,DIIRS-2,Scientist F,,9490403007
+524,712,Vipin Yadav,DIIRS-2,Scientist F,,9848093180
+525,713,Satendra Suman,DIIRS-2,Scientist F,,9490956001
+526,714,K Suresh,DIIRS-2,Scientist E,,9490956009
+527,715,B Sandhya,DIIRS-2,Scientist F,,8332913093
+528,716, Harish VS Akella,DIIRS-2,Scientist E,,9440967345
+529,717,Nikhil Kumar Pali,DIIRS-2,Scientist D,,9441876387
+530,718,Ankit Lat,DIIRS-2,Scientist D,,9405991240
+531,719,G Ravi Kumar,DIIRS-2,Scientist C,,9666672101
+532,720,Sudhakar Painkra,DIIRS-2,Scientist C,,9494139863
+533,722,Sanjeev Reddy,DIIRS-2,Technician B,,9494041748
+534,723,Sanjay Arjun Patil,DIIRS-2,Tech-A,,9096264113
+535,724,Kamlesh Kumar ,DIIRS-2,Technical Officer A,,
+536,728,MS Beg,CSL ,Scientist F,,9919491808
+537,729,S.K. Mahata,DCS,Scientist G,Autopilot & System,9440969897
+538,730,Dr. A.V. Sudhakara reddy,CSL,Scientist F,,9490166686
+539,731,K.N.V. Suresh Babu,DCS,Scientist G,HPT&  P,9490002476
+540,732,K Satyanarayana,Project VSHORADS,Scientist G,,9490709424
+541,733,A. Raghavendra Bhat,Project VSHORADS,Scientist F,ARDF,9440354020
+542,734,G Venkat Raju,DCS,Scientist F,,9490956554
+543,735,Dr.Rahul Dixit,DCS,Scientist F,EMA System,9490956019
+544,736,P. Sridevi,DLS,Scientist F,ELORIA,9490166855
+545,737,Dr. G Mallikarjuna Rao,CSL ,Scientist F,,9490166665
+546,739,M R Bhaskar,DCS,Scientist F,EMA System,9440237297
+547,740,R.J.K. Chari,DHPT & P,Scientist F,,9490166656
+548,741,Dr B. Venkat Ravi Kumar,DCS,Scientist F,Control Electronics,9848220818
+549,742,Ramesh Kumar,DCS,Scientist F,Control Electronics,9440750145
+550,743,Y Laxmi Narayana,DCS,Scientist F,Control Electronics,9440085653
+551,744,G Sreedhar Babu,DCS,Scientist F,EMA System,9490166671
+552,745,G V V Satyanarayana,HPT&P,Scientist E,SVT,9490956076
+553,746,B Jawahar Lal,DCS,Scientist F,Control Electronics,9490125907
+554,748,Ashish Dutta,DCS,Scientist F,Control Electronics,9494237327
+555,749,Deb Kumar Ghosh,DCS,Scientist F,TARA Project,9494231851
+556,750,B. Jhansi,DCS,Scientist F,Autopilot & System,9912905523
+557,751,V. Ramesh Babu,DHPT & P,Scientist F,,9440455131
+558,752,S Kandasamy,DCS,Scientist E,Autopilot & System,8096105005
+559,753,CHV Satyanarayana Raju,DCS,Scientist F,EMA System,9490217837
+560,754,P Shivnatham,DCS,Scientist E,EMA System,9490166884
+561,755,Arun Singh Banothu,DCS,Scientist E,Autopilot & System,9490166903
+562,756,G. Vamshi Krishna,DCS,Scientist E,Control Electronics,9490956886
+563,757,V Pradeep Kumar,DCS,Scientist E,Autopilot & System,9490166902
+564,758,V Naveen Kumar Rednam,DCS,Scientist E,EMA System,9491061476
+565,759,C Arjun Rao,DCS,Scientist E,Control Electronics,9491364540
+566,760,K Prakasam,CSL ,Scientist D,,9490431214
+567,761,T Madhusudhana Rao,LRGB,Scientist D,LRGB,9052650990
+568,762,H. Srinivas,DCS,Scientist E,Control Electronics,9440755533
+569,764,A. Laxmi Devi,DCS,Scientist E,Control Electronics,9492331530
+570,765,Apratim Talukdar,HPT&P,Scientist E,TARA Project,9100510258
+571,767,Zaki  Anwar,DCS,Scientist D,Control Electronics,9640764054
+572,768,K Jayaprakash,DCS,Scientist D,Autopilot & System,9494653766
+573,769,Binoy Nambiar,CSL ,Scientist C,,9537689475
+574,770,G V Narsimha Rao,DCS,TO-C,EMA System,9441676311
+575,771,Anil Kumar Komaram,DCS,TO-B,EMA System,9492532623
+576,772,B. Srinivasulu,DCS,TO-B,Control Electronics,9490684766
+577,773,Surendra Singh Garbyal,DCS,TO-A,,9553976098
+578,774,I. Jayakrishna,DCS,TO-A,,8019130021
+579,776,A Bhavana,HPT&P,PA-C,,9490425750
+580,777,Sudhir Kumar ,HPT&P,TO-A,TTG,9493556874
+581,779,Rajanikant Rout,HPT&P,Technical Officer,SVT,9542221807
+582,780,Nitin Sharma,DCS,STA-B,EMA System,8978215185
+583,781,Sanjay Kumar Das,DCS,STA-B,EMA System,9494282692
+584,782,Ashok Kumar Nut,DCS,STA-B,EMA System,9493253230
+585,783,V Narendra,DCS,STA-B,EMA System,9494871218
+586,784,M Raja Rathnam,HPT&P,TO,TTG,8019906418
+587,785,S. Dhanraj,HPT&P,Technical Officer,SVT,8985420715
+588,786,K. Srinivasa Rao,HPT&P,Technical Assistant B,SVT,9493015565
+589,787,C. Raji Reddy,DHPT & P,Technician C,,9490422682
+590,788,D. Bikshapathi,HPT&P,Technician C,SVT,9492570704
+591,789,Md. Kaleemuddin,DCS,Tech-B,EMA System,9848565138
+592,790,H. Jangaiah,DCS,Tech-B,EMA System,9666318428
+593,791,B Srinivas Reddy,HPT&P,Attendant Lab Ser,HPT&  P,9989222138
+594,792,Amit Kumar Pal,HPT&P,Technician B,SVT,8096105335
+595,794,Rahul Kushwah,HPT&P,Tech-A,SVT,9542658979
+596,795,Tanbir Majumder,DCS,TECH-A,,9406272254
+597,796,D. Vishnu Dattu,HPT&P,Tech-A,SVT,9701736479
+598,797,Somnath Singha,HPT&P,Tech-A,SVT,9091285384
+599,798,Pankaj Kumar  ,HPT&P,Tech-A,SVT,9536650079
+600,799,Reception,DCS,,,
+601,800,D. Venu Gopal,RUDRAM-III,"Scientist H,OS",,9440330601
+602,801,A Hari Babu,,Scientist G,RUDRAM-IV,9490192525
+603,802,T. Mallikarjuna Rao,DP & HR, Sc-F,Planning,9490166755
+604,803,Harminder Singh Johar,RUDRAM-III,Scientist F,,9490797109
+605,804,Shalabh Mehta,LRGB,Scientist F,LRGB,9493984710
+606,805,S B Hanumantha Reddy,RUDRAM-III,GP Capt,,9405254601
+607,806,R Purushotham,RUDRAM-III,Technical Officer,,9490166663
+608,807,Prashant Kumar Mandal,RUDRAM-III,STA-B,,9493528152
+609,808,T Narasimha Rao,PRALAY,Scientist G,,9490166596
+610,809,P Balasundaram,PRALAY,Scientist G,,9449834272
+611,810,R Srinivasan,PRALAY,Scientist F,,9490153779
+612,811,Shekar Singh ,PRALAY,GP Capt,,7042133665
+613,812,R Srinivasan,PRALAY,Scientist F,,
+614,813,UK Thakur,PRALAY,Scientist F,,9490956833
+615,814,Smt. R Venkataramana,PRALAY,SR. Admin Asst,,9492046885
+616,815,D RaviKumar,PRALAY,Scientist E,,9160317771
+617,816,K Velmurugan,SINT - M,Scientist G,,9490166660
+618,819,SK Tiwari,SINT - M,Scientist F,,9490956530
+619,820,M Umakanth,SINT - M,Scientist F,,9490448101
+620,821,M Saravanan,SINT - M,Scientist F,,9490233453
+621,822,Santosh Kumar Meena,SINT - M,Scientist B,,9493287327
+622,824,E V Subba Rao,DR & QA,Scientist F,,9490448102
+623,825,K Manoj,SINT - M,Scientist F,,9440339960
+624,826,Manoj Kumar Behera,SINT - M,Scientist F,,9490956038
+625,827,Srinithi.S ,SINT - M,Scientist B,,7305604755
+626,828,Tanumoy Biswas,NASM-MR,Scientist E,,9441359069
+627,829,T Boyina Srinivasa Rao,SINT - M,Scientist E,,9490166759
+628,830,KN  Vamsi Krishna,SINT - M,Scientist E,,9491634385
+629,831,Saurabh Kumar,SINT - M,Scientist E,SINT-M,9493183052
+630,832,Dr N Vijayabaskar,SINT - M,Scientist F,,9705376764
+631,834,M A Ramesh,SINT - M,TO-A,,9490563367
+632,835,S Sree Ramulu,SINT - M,TO-A,,9441091105
+633,836,P Sreenivas Rao,SINT - M, TO,,9492241004
+634,839,V Rajesh,SINT - M,Technical Officer B,,9505794151
+635,841,Raj Kumar Pandit,SINT - M,Technical Officer A,,8804363044
+636,843,Dr TS Balasubramanian ,DOPSS,Scientist F,PSSG,9948247870
+637,845,Sanjay Biswas,DOPSS,Scientist F,PSSG,
+638,846,KV Ramana Rao ,DOPSS,Scientist F,PSSG,9490797962
+639,847,M S Chandrasekhar,DOPSS,Scientist E,PSSG,9700115243
+640,848,S Loganathan ,DOPSS,Scientist F,PSSG,9440078689
+641,849,D Ravindar,DOPSS,Scientist E,PSSG,9618556460
+642,850,P R Srikanth  ,DOPSS,Scientist E,PSSG,9100945776
+643,851,M S Chandra Sekhar,DOPSS,Scientist E,PSSG,7093767263
+644,852,K Ramesh Babu,DOAI,TO-C,MID,9618012238
+645,854,M. Santharam  Reddy,DOAI,Scientist F,EICD,9490431257
+646,855,V Papa Rao,DOAI,STA-B,EICD,9959075984
+647,856,AT Shelwatkar,DOAI,Scientist G,MID,9441899899
+648,857,Vaibhav Shukla,SINT - M,Scientist C,EICD,9044819754
+649,858,Ajeet Kumar Singh,DOAI,STA-B,MID,
+650,864,P R K Reddy,DOMS,Sub Major,DSC,
+651,865,DSC Kote,DOMS,,DSC,
+652,866,DSC Line,DOMS,,DSC,
+653,867,JCO's Mess,DOMS,,DSC,
+654,868,DSC Officer Mess,DOMS,,DSC,
+655,869,QM Office ,DOMS,,DSC,
+656,870,Security JCO,DOMS,,DSC,
+657,871,Chinnarao  (Sr Sec JCO) ,DOMS,SUB,DSC,8142059960
+658,872,Pass Section,DOMS,,DSC,
+659,874,Phadisharif Gate,DOMS,,,
+660,875,Colony Gate,DOMS,,,
+661,876,DRDL Gate Post,DOMS,,DSC,
+662,877,"AD Tower Post,Lift",DOMS,,DSC,
+663,878,Nitin chourasia,DRFS-2,Scientist F,RA & SD,
+664,879,New Post DSC,DOMS,,DSC,
+665,881,ADC Post (A),DOMS,,DSC,
+666,882,Agni Post,DOMS,,DSC,
+667,883,ADC Post ,DOMS,,DSC,
+668,884,New Charminar,DOMS,,DSC,
+669,885, CSD DSC,DOMS,,DSC,
+670,886,Ravindra Krishna,DOMS,CLK,DSC Office,
+671,887,EETF Gate,DOMS,,DSC,
+672,888,,DOMS,Main Gate,DSC,
+673,890,Praveen Kumar,DOMS,Hav,Service Cell,9770344354
+674,892,MI Room (Reception) Res Area,DOMS,,Service Cell,
+675,894,MI Room Technical Area,DOMS,,DOMS,
+676,895,G k Ashwin,DOMS,Col,Service Cell,8008503320
+677,896,MT NCO,DOMS,,Service Cell,
+678,897,MT Work Shop,DOMS,,Service Cell,
+679,898,MT Civil Staff,DOMS,,,
+680,899,Ramjee B,DOMS,TO-A,Service Cell,9441222640
+681,901,Nitin Khairmode,DOMS,Lt Col,Works & Services,8427648202
+682,902,SK Tiwari (Retd),DOMS,TO-D,Works & Services,9490410548
+683,903,S Basha,DOMS,TO-C,Works & Services,9490410828
+684,904,G Sumathi,DOMS,TO-A,Works & Services,9912667595
+685,905,Dhanendra Tripathi,DOMS,STA-B,Works & Services,8982305755
+686,907,M Venkat Rao,DOMS,SAO-II,Finance,9000110090
+687,910,Akash Sharma,DOMS,AA-B,Finance,9542273971
+688,911,SK Moinuddin,DOMS,SR. Admin Asst,Finance,9985369026
+689,912,VSRV Prasad K,DOMS,Sr. AA,Finance,9493388468
+690,913,P Chandrakanth,DOMS,Tech -A,Finance,9848426248
+691,914,MD Nizam,DOMS,Admin Asst B,Finance,7730889486
+692,916,M M Jaya Babu,DOMS,Senior Accounts Officer Grade I,Finance,9502973563
+693,917,E Anjaneyulu,DOMS,ADFO,,9848222998
+694,918,VINODA,DOMS,MTS,,
+695,919,B Prabhakar,DOMS,TO-A,,9393592626
+696,920,G S JOY,DOMS,TO-A,,9441163302
+697,921,Sanjay Kumar Gupta,DOMS,JD ( ADMIN),,9373329087
+698,922,Abhishek Kumar ,DOMS,SAO-II,CS,8742907895
+699,925,Ch .Naomi,DOMS,SAO - II,EI,7207269601
+700,926,B Satyanaryan,DOMS,Senior Admin Offi,Officer i/c E -III,9490682282
+701,928,J Vinod Kumar,DOMS,Sr. AA,EIII,9701534534
+702,929,Hazira Begum,DOMS,MTS,EII,9948892384
+703,930,R Suvarna Latha,DOMS,Sr. AA,General Admin,9392102070
+704,931,Vikas Kumar,DOMS,Admin Asst B,EII,9492197296
+705,932,Rajiv Ranjan,DOMS,Admin Asst B,EII,8331972916
+706,933,Shailesh  Kumar,DOMS,Admin Asst B,EI,9494724014
+707,934,Sachin Kumar,DOMS,Admin Asst B,EI,9493559289
+708,935,Amrutha Thomas Jayaseelan,DOMS,Admin Asst A,EI,9885551173
+709,936,J Lalitha,DOMS,DEO-D,Pension Cell,9603617233
+710,937,Vikas kumar,DOMS,Admin Asst B,DPC/ Legal Cell,
+711,939,K Murali Mohan,DOMS,MTS,Daspatch Station,9848073874
+712,941,C G Cell,DOMS,TO-A,C G Cell,
+713,942,Jay Prakash,MES,GE,MES,7665007650
+714,943,vimal kumar bendwal,MES,AE,,9827435790
+715,944,AGE E&M Compleint,MES,,,
+716,945,B V Ravi Kumar,MES,AE,,9491693236
+717,946,GE MES,MES,,,
+718,948,S Mutyala Rao,MES,AE ,MES,9491150282
+719,949,AGE E&M Compleint,MES,,,
+720,950,B M Kamble,MES,AE,AGE Technical,9493364499
+721,952,Smt Premlatha Hariharn,MES,OS,MES,9000228583
+722,953,C H Rajadharma Reddy,MES,AGE(C),E-8,9789472994
+723,954,Res Area Comleint Cell,MES,,,
+724,955,MES GATE,MES,,MES,
+725,956,Sub Stn No 3 (Electrical Complaint),MES,,MES,
+726,957,Pump House RCI,MES,,MES,
+727,958,SS MSDS ,MES,,MES,
+728,959,Sub Station (CPDC),MES,,MES,
+729,960,Amod Rajak,MES,AE,MES,8404834924
+730,962,AC Complaint,MES,,MES,
+731,963,Sub stn No 8 (Power ),MES,,MES,
+732,964,Sub stn No 4  (Power ENTEST),MES,,MES,
+733,965,Sub stn No 4A,MES,,MES,
+734,966,Sub stn No 1    ( ELOIRA),MES,,MES,
+735,967,Sub stn No 5 (Besides pump house),MES,,MES,
+736,968,P M More,MES,AGE (E&M),MES,
+737,975,Main Power House,MES,,MES,
+738,976,MES Complaint (war head),MES,,AD,
+739,977,Complaint Cell (Bathroom),MES,   ,,
+740,978,MES Sub Stn,MES,,DIIRS,
+741,979,Sultana,K-15,TO-C,,9493411970
+742,980,Program Director Staff,K-15,,,9490956153
+743,981,Exachange K-15,K-15,,,9440745623
+744,982,P D Srinivas,K-15,Sc-H,,9491085744
+745,983,GL Nageshwar Rao,K-15,Sr. ACO,,9908471431
+746,984,Prathima,K-15,Sr. AA,,9490956153
+747,985,AP Das,K-15,Scientist G,,9490166911
+748,986,M Srinivas ,K-15,Scientist G,,9490747573
+749,987,KN Srinivas,K-15,Scientist G,,9441437819
+750,988,GA Srinivas Murthy,K-15,Scientist G,,9440617438
+751,989,Khanna,K-15,Capt,,9398575069
+752,990,"A Joseph, PGD ANS",K-15,Sc-H,,9440059967
+753,991,A Madhusudhan Rao,K-15,Scientist G,,9490749669
+754,992,Mahesh ,K-15,Tech ,,9440745623
+755,993,Shiva Dayal Rao,K-15,Scientist G,,9441480862
+756,994,B Veera Sekhar,ASL,Scientist F,SINT-M,9492529036
+757,996,Rajesh Kumar Barman,ASL,Scientist F,SINT-M,9440966718
+758,997,G Vamshi Krishna,ASL,Scientist E,SINT-M,9866452940
+759,998,L Prakash ,ASL,Scientist E,SINT-M,9440502543
+760,999,S Ramprasad,ASL,Scientist E,SINT-M,9440856544
+761,1001,Taraknath De,ASL,Scientist E,SINT-M,9848466271
+762,1003,R Sheena Rani,ASL,Scientist G,SINT Check Out,9440960460
+763,1004,Lalatendu Parida,ASL,Scientist F,SINT Check Out,8500537431
+764,1005,Rajeev Kumar ,ASL,Scientist E,SINT Check Out,9442377632
+765,1006,Bipin Kumar,ASL,Scientist E,SINT Check Out,9440484130
+766,1007,P Srinivas Reddy,ASL,Scientist G,SINT EMAG,9848241254
+767,1008,Suresh Prasad,ASL,Scientist E,SINT EMAG,9440509041
+768,1009,A Purshotham,ASL,Scientist F,SINT BSS,9490748507
+769,1010,N Sowmya,ASL,Scientist E,SINT BSS,9490166803
+770,1011,Susheel Kumar Sharma,ASL,Scientist F,SINT -E,9440842675
+771,1012,CH Reddy,ASL,Scientist F,SINT-E,94400333838
+772,1013,Deepak Kumar Mittal,ASL,Scientist F,SINT-E,9440342020
+773,1014,G Rambabu,ASL,Scientist E,SINT-E,9848694233
+774,1015,Uma Maheswara Rao Banki,ASL,Scientist E,SINT-E,9490166756
+775,1016,KH Sinnur,ASL / HTTC,Scientist G,CCD,9440956126
+776,1017,Neil Dubey,ASL / HTTC,Scientist F,CCD,9440374022
+777,1018,Atul R Bhagat,ASL / HTTC,Scientist E,CCD,9493210093
+778,1019,Dr Gururaja Rao,ASL / HTTC,Scientist E,CCD,9490748563
+779,1020,Singade Vijay Raj,ASL / HTTC,Scientist E,CCD,9618888350
+780,1021,Dr P Selvam,ASL / HTTC,Scientist E,CCD,9441286869
+781,1023,I Srikanth,ASL / HTTC,Scientist E,CMCD,9492924903
+782,1027,T Kamalakar,ASL / HTTC,TO-A,CMCD,9490956291
+783,1028,Samar Mondal,ASL / HTTC,Scientist D,CMCD,9394147138
+784,1030,Anil Kumar,ASL / HTTC,Scientist G,CMCD,9848875750
+785,1031,KVVS Murthy Reddy,ASL / HTTC, TO-B,CMCD,9494569090
+786,1033,D Lakshmirarayana,ASL,Sc-H,,
+787,1034,Priyanka,ASL / HTTC,Scientist C,CCD,8332896832
+788,1035,K Ravi Kumar Reddy,ASL / HTTC,TO-C,CCD,9491547820
+789,1036,B Narsimha Rao,ASL / HTTC,TO-B,CCD,9948595624
+790,1037,K H Sinnur,ASL / HTTC,Scientist G,CCD,9440956126
+791,1038,Priti Ranjan Sahu,ASL / HTTC,TO-A,CCD,9492751775
+792,1039,Markandeyulu,ASL / HTTC,TO-A,CCD,9393614666
+793,1042,Alex Daniel,ASL / HTTC,Scientist F,CMCD,7731876507
+794,1044,Officer’S Mess Reception,DOMS,,Offr Mess,
+795,1047,Dr LMD Reddy (MI ROOM) ,DOMS,,MI Room,
+796,1048,Suite No.1 ( JCB ),DOMS,,,
+797,1049,Suite No.2 ( JCB ),DOMS,,,
+798,1050,Suite No.4 ( JCB ),DOMS,,,
+799,1051,DAC,DOMS,,DAC,
+800,1052,Narsingh Rao,Union Office,,,
+801,1053,Narsingh Rao S,DOMS,PA-C,,
+802,1054,Narsingh Rao G,DOMS,Tech-C,UNION,9.50E+11
+803,1055,Dr jagnath nayak,CHESS,Sc-H ,,9440543341
+804,1059,A Raghavendera Bhatt,DLS,Scientist F,ELORIA,
+805,1064,Dr M Sree Ramana,DLS,Scientist F,ELORIA,9491243896
+806,1068,Dr Seshagiri Rao,DSQA,Scientist G,SQAD,
+807,1069,N Satya Prashad,DR & QA,Scientist G,SQAD,9440719314
+808,1070,Gajanan Chirde,DOMS,Col,Communication,9490796411
+809,1071,Ankit Mahaur,DOMS,Sr. Technical Ass,Communication,8332959060
+810,1073,Fault Control,DOMS,----Select----,Communication,
+811,1074,Exchange,DOMS,----Select----,Communication,
+812,1075,Exchange Supervisor,DOMS,----Select----,Communication,
+813,1079,M Kanan,DNEC,Scientist G,DNS,
+814,1080,A Raghavender Bhatt,DLS,Scientist F,ELORIA,
+815,1082,M Lavanya,ASL,Scientist E,SINT Check Out,9440683721
+816,1085,Nomi Sonowal,ASL,Scientist E,SINT Check Out,9491030730
+817,1086,P Suresh Babu,ASL,Scientist E,SINT Check Out,9492031306
+818,1087,Aleti Kumar Diwakar,ASL,Scientist E,SINT Check Out,9975296401
+819,1089,T Srinivas,DCMM,Senior Stores Officer Grade II,AD,9949042661
+820,1090,Bapatiya Jana,ASL,Scientist E,SINT Check Out,7382115881
+821,1091,Kalyan Krishna,ASL,Scientist E,SINT Check Out,9491155406
+822,1092,Ambaj Kumar Diwakar,ASL,Scientist E,SINT Check Out,9440317781
+823,1093,Nand Kishor Singh,DESG,Scientist G,DESG,9490004600
+824,1094,V Satish Reddy,DR & QA,Scientist E,SQAD,8331943518
+825,1096,B Hari Prasad,,Scientist G,SINT EMAG,
+826,1097,S Krishna,DOFI,Scientist F,DOFI,
+827,1102,,,----Select----,,
+828,1105,Jai kishan yadav,DOMS,Admin Asst B,EII,9441469194
+829,1109,M Ratna Raju,MRSAM,Scientist F,MRSAM,9440521364
+830,1110,P Kiran Kumar,MRSAM,TO-A,MRSAM,9490437915
+831,1113,Sonal Chandra,,Lt Col,Res Area,
+832,1114,R Naveen Kumar,ASL,Scientist D,SINT,
+833,1115,Vinod Kumar,ASL,Scientist E,SINT,
+834,1116,Vishnu Charan,ASL,Scientist E,SINT,
+835,1117,G Vamshi Krishna,ASL,Scientist E,SINT,
+836,1118,B Veera Sekhar,ASL,Scientist F,SINT,
+837,1119,S Dharma Rao,ASL,TO-C,SINT,
+838,1120,J Navya Revathi,ASL,Scientist D,SINT,
+839,1121,Gas Agency /Petrol Pump,,----Select----,Res Area,
+840,1122,Lab School,,----Select----,,
+841,1123,Bank  ( SBI ),,----Select----,Res Area,
+842,1124,Bank Manager (SBI),,----Select----,Res Area,
+843,1126,Taraknth De,,Scientist E,SINT,
+844,1127,S Ramprasad,ASL,Scientist E,SINT,
+845,1128,Shivanand Tripati,ASL,Scientist C,SINT,
+846,1129,B Veera Sekhar,ASL,Scientist F,SINT,
+847,1130,Amrutha Shivane,ASL,Scientist F,SINT,
+848,1131,Yashwant Deshmukh,ASL,Scientist D,SINT,
+849,1132,CVI Control Room,ASL,----Select----,,
+850,1133,A- 65  Control Room,ASL,----Select----,,
+851,1134,TC Thomas,ASL,Sc-H,,
+852,1135,B VEERA SEKHAR,ASL,Scientist E,,
+853,1136,Bhanu Murty,ASL,Tech-C,,
+854,1137,PWT Facility,ASL,----Select----,,
+855,1138,B R K Kaushik,ASL,Scientist F,SINT-M,
+856,1139,P Sreedhar,ASL,Scientist E,SINT-M,
+857,1140,Sandeep Bajpai ,ASL,Lt Col,SINT -E,
+858,1146,G Sreedharbabu,NASM-MR,Scientist F,,9490166671
+859,1147,Ashish Kumar,DOFI,Scientist D,TTTG,9603226574
+860,1148,G Jyothi Rani,DOFI,TO-D,SCG,9177163771
+861,1149,Rajesh W Lanjewar,LRGB,Scientist F,LRGB,9490798025
+862,1151,R Laxman,DCS,Scientist E,Autopilot & System,9490304723
+863,1154,K Madhusudhan Reddy,DHPT & P,TO-B,,9440723141
+864,1157,S Y Veerabhadra Reddy,ENTEST,Scientist F,SVD,9490020010
+865,1158,P Naveen,DIIRS -1,Scientist E,,9490166543
+866,1159,Sanjiv Rudrajit Roy,SINT - M,Technician B,,8007180884
+867,1160,A Raghavendera Bhatt,DLS,Scientist F,ELORIA,
+868,1161,V Ravi Shankar,DOAI,Scientist E,EICD,9490748610
+869,1162,Ajeet Kumar Singh,DOAI,Sr. Technical Ass,MID,9431202465
+870,1163,P Srinivas Reddy (TD),DCS,Scientist G,,9848241254
+871,1164,EHSV Office,HPT&P,----Select----,,
+872,1165,EHSV Ciean Room,HPT&P,----Select----,,
+873,1166,EHSV Work Shop,HPT&P,----Select----,,
+874,1168, Rajappa Methre,DCS,Scientist F,,9490956029
+875,1172,MU Suresh,CHESS,Lt Col,,7002397189
+876,1174,Chess Rear Gate,CHESS,----Select----,,
+877,1175,Chess Main Gate,CHESS,----Select----,,
+878,1176,DNEC Main Gate,DNEC,----Select----,,
+879,1177,Union Office,Union Office,----Select----,,
+880,1179,K Bhaskar,SINT-E,Scientist E,,9490463130
+881,1180,Server Room,DCMM,Scientist G,,
+882,1183,SECURITY,DCMM,Scientist G,,
+883,1185,Anish Gopal,T F C,Scientist F,Safety Eng,9424283281
+884,1186,,DEM,----Select----,EMI/EMC,
+885,1192,Saida safavath,DECS,Scientist D,DECS,9441231788
+886,1193, Mahesh K Rajpurohit,MRSAM (ARMY),"Scientist H,OS",MRSAM (ARMY),9441268004
+887,1194,Shri Kanike Sreenivasulu,MRSAM (ARMY),Scientist G,MRSAM (ARMY),9490730328
+888,1196,Shri Ravi Gopoju,MRSAM (ARMY),Scientist F,MRSAM (ARMY),9490746828
+889,1197,Shri Aditya Mishra,MRSAM (ARMY),Scientist E,MRSAM (ARMY),9440345988
+890,1198,Shri J Nagaseetharam,MRSAM (ARMY),Scientist E,MRSAM (ARMY),9490310526
+891,1200,Shri C Jayaprakash,MRSAM (ARMY),AO,MRSAM (ARMY),9440471377
+892,1202,Shri K Manoj,MRSAM (ARMY),Scientist F,MRSAM (ARMY),9440339960
+893,1203,C Jayaprakash,MRSAM,AO,MRSAM,9440471377
+894,1207,G V Sudhakar,SINT-E,Scientist E,SINT -E,9494234785
+895,1211,Abhishek Kesari,DICT,Technical Officer B,ER&CS,
+896,1212,P Ramadevi,DICT,Scientist F,ER&CS,
+897,1213,P Sampath Kumar,ENTEST,Scientist D,SDAT,
+898,1214,A Karthik,ENTEST,Scientist E,SVD,
+899,1215,K Krishna Prasad,DP & HR,Technical Officer A,Planning,9441821449
+900,1216,Pankaj Kumar Srivastav,SINT - M,Technical Officer B,,9493557462
+901,1217,Amber srivastava,DNS,Scientist B,ISG,
+902,1218,M Rama Swamy,DNS,Scientist E,ISG,9490214644
+903,1220,V Vidya Krishna,DNS,Scientist E,ISG,9490463037
+904,1223,K C Das,DNS,Scientist F,ISG,9440927799
+905,1224,Bablunath Rabidas,DNEC,TECH-A,,9493869120
+906,1225,P Narasimhulu,DECS,Scientist F,DECS,9493984732
+907,1226,Nand Kishore Singh,DESG,Scientist G,DESG,9490004600
+908,1228,K K Reddy,DSP,TO-A,Ground Systems,9989062724
+909,1229,BVSR Vara Prasad,DCS,Scientist F,Control Electronics,9491633853
+910,1231,K Padmavathy,DOMS,SPS,DOMS,9246213566
+911,1234,,,----Select----,,
+912,1235,Officer Mess Recepction,Guest Rooms,----Select----,Offr Mess,
+913,1236,J C Bhattacharya  Reception,Guest Rooms,----Select----,,
+914,1237,Transit Hostel,Guest Rooms,----Select----,,
+915,1238,S Sai Srikar,DOFI,Sr. Technical Ass,TTTG,9490970516
+916,1239,B Venkata Rama Subbaiah,DOAI,Scientist E,EICD,9492752175
+917,1241,Kumar Rahasyam,DSP,Scientist D,,9494232871
+918,1242,Giri Gobardhan Mahato,DSP,Sr. Technical Ass,,8409927375
+919,1243,,DSP,----Select----,,
+920,1244,K Srinivasa Rao,DOPSS,Technical Officer,PSSG,9491014421
+921,1245,A.Sreenivasulu,SINT-E,Technical Officer B,,9490166687
+922,1246,Rahela Nikhat,SINT-E,Technical Officer,,8985420662
+923,1247,Abhay Prakash,DCMM,Sr. Technical Ass,OGL,9493559331
+924,1251,K.Narasimha Reddy,SINT-E,Technical Officer,,9492754953
+925,1252,Neha,SINT-E,Technician A,,8770621818
+926,1253,Sandeep Khalkho,DOFI,Technical Officer,DL & ASG,7382668982
+927,1254,Sunil JEPH,CSL,Scientist B,,8875490767
+928,1255,L.Vara Prasad,DCS,Scientist F,Autopilot & System,8331924624
+929,1256,Manish Kumar,DCS,Sr. Technical Ass,,7783852790
+930,1257,Sunny Kumar SINGH,CSL,Sr. Technical Ass,,7323860231
+931,1258,Pawan Kumar,CSL,Sr. Technical Ass,,9065259497
+932,1259,Rashami Kumari,CSL,Sr. Technical Ass,,7258804811
+933,1260,MV.Sricharan Reddy,CSL,Junior Reserch Fe,,9959290218
+934,1261,B.Anusha,CSL,Junior Reserch Fe,,8466955361
+935,1262,B.Rajendra Prasad,CSL,Junior Reserch Fe,,8328361743
+936,1263,Kanchan,CSL,Junior Reserch Fe,,8319892572
+937,1264,Ajay Kumar Duggu,CSL,Junior Reserch Fe,,9731465212
+938,1265,Mr. A Suresh Varma,DIIRS -1,Scientist B,,8142212112
+939,1266,Ms.Khushboo kumari bharti,DIIRS -1,Sr. Technical Ass,,9534823925
+940,1267,D.Mona,DHILS,Sr. Technical Ass,,8466962211
+941,1268,Pydi Tirumala Rao,DOMS,Sr. Technical Ass,Works & Services,
+942,1270,M K Avez,DOMS,----Select----,Works & Services,9553307802
+943,1271,G Narsing Rao,DNS,Technical Officer A,ISG,9951800929
+944,1272,Brajnish Sitara,DNS,Scientist F,ISG,9490166579
+945,1273,N Anjaiah,DRFT,Technical Officer,RA & SD,9440955899
+946,1274,A Raghvender Bhatt,DLS,Scientist F,ELORIA,9440354020
+947,1275, 	A Raghavender Bhatt,DLS,Scientist F,ELORIA,
+948,1276,Ashish Talwalker,SINT-E,Scientist E,AD,9490166988
+949,1277,Dr Padma Bolla,DOFI,Scientist F,DL & ASG,9440567775
+950,1279,A K PATHAK,DP & HR,Scientist G,,9440966724
+951,1280,SSSBS SUBBA RAO,DLS,Scientist G,ELORIA,9090956061
+952,1281,Dr.G Mllikarjuna Rao,DR & QA,Scientist G,,9490166665
+953,1282,B M Pathak,MRSAM (ARMY),Lt Col,MRSAM (ARMY),8126417188
+954,1285,Gajanan Chirde,DOMS,Col,,
+955,1286,Gautam Mahapatra,Cybernetics Systems,Scientist G,,9490995206
+956,1288,Kasu VSRS Sekhara Rao,SINT-E,Scientist D,SINT -E,9490956069
+957,1289,Devi Prasad Panda,DSP,Scientist E,,
+958,1290,Poulose V A,MRSAM (ARMY),SUB,MRSAM (ARMY),9495956629
+959,1291,Surender Kumar,DOMS,Nb SUB,Service Cell,7732009987
+960,1292,Sachin Seth,DCMM,Lt Col,CSRAC,7897994434
+961,1293,V V Subrahmanyam,DP & HR,Scientist F,Planning,9440768292
+962,1294,S Gopinath,SINT - M,"Scientist H,OS",,
+963,1295,Vijay Shankar Yadav,SINT - M,Store Asst B,,8052948362
+964,1296,Anil,DOMS,----Select----,Communication,8332959073
+965,1297,DNS  Main Gate,DNS,----Select----,,
+966,1298,Dr.I M Chhabra,NASM-SR,Scientist F,,9490315982
+967,5282,T.K.Pavan Sai,DOFI,STA-B,,9492128207
+968,5284,P Atchuta Ramayya,ENTEST,Scientist F,COCOA,
+969,5285,G Vellangi Raju,DOMS,Technical Officer,,9490166609
+970,5286,Shri Obaiah,MRSAM (ARMY),Technical Officer A,MRSAM (ARMY),7248451408
+971,5289,Dhiraj Kumar,MRSAM (ARMY),Sr. Technical Ass,MRSAM (ARMY),9430667472
+972,5290,Pankaj Kumar,MRSAM (ARMY),Sr. Technical Ass,MRSAM (ARMY),7995367479
+973,5292,Dr. P Anil Kumar,DOMS,Scientist G,DOMS,
+974,5294,Dr.Anupam Sharma,DSP,"Scientist H,OS",,9490751644
+975,5295,P Balaji,DSP,Accounts Officer,DSP,9989423233
+976,5296,Sep V Krishana,DOMS,----Select----,DSC,8557973715
+977,5298,S Noorulla Basha,DOPSS,Technical Officer,PSSG,9441929657
+978,5299,Jasobant Sahoo,T F C,Store Asst B,Safety Eng,
+979,5301,K Ajaathasathru,Garuda I,Scientist E,Garuda I,9611392527
+980,5302,Srinivas Chary,DCMM,Stores Officer,CSRAC,9441230126
+981,5303,SV Ahluwalia,PRITHVI (PS&PU) & NASM,Col,,
+982,5305,Jayant Upadhyay,,Col,,
+983,5306,E Srinivas ,DRSS,Scientist E,,
+984,5308,Lohit Kumar Naidu,DEM,Technical Officer A,EMI/EMC,
+985,5310,Mahesh K Rajpurohit,MRSAM (ARMY),Scientist G,,
+986,5311,Nitin Khairmode,DOMS,Lt Col,Works & Services,8427648202
+987,5312,Subrata kumar Dash,DCMM,Senior Stores Officer Grade II,MALD,7382063654
+988,5313,Hav Gurjeet Singh,DOMS,----Select----,Service Cell,8544813645
+989,5315,P Naveen Kumar,DSP,Scientist F,,9490956703
+990,5317,DL Seshagiri Rao,DSQA,Scientist G,,
+991,5318,Suman Agrawal,DSP,Scientist F,,9490956260
+992,5319,S K Pal,DOMS,SUB,Communication,9490796420
+993,5320,O Sudhir Babu,MRSAM,Wing Commander,MRSAM,8861291443
+994,5321,BSV Prasad,RUDRAM-III,Scientist G,,9490956111
+995,5322,Sweta Padma Mishra,RUDRAM-III,Scientist F,,9490232864
+996,5323,Appanna Shetty,RUDRAM-III,Senior Stores Off,,7989343803
+997,5324,M Sree Ramana,DLS,Scientist F,,
+998,5325,Tayade Atish Saheb Rao,SINT - M,Scientist C,,9490393202
+999,5326,K Chandra Sekhar ,SINT - M,Technical Officer B,,9848578558
+1000,5327,N Sai Teja,SINT - M,Junior Reserch Fe,,9573158685
+1001,5330,G Srinu,DNS,Sr. Technical Ass,FOSD,8186046404
+1002,5331,Sukhendu Kumar Bal,DHILS,Sr. Technical Ass,,9040185659
+1003,5332,Dinesh Kumar Maurya,DOPSS,Sr. Technical Ass,PSSG,7800964668
+1004,5333,Shashi Kant Sahu,DOPSS,Sr. Technical Ass,PSSG,9493262400
+1005,5334,S Loganathan,DOPSS,Scientist F,PSSG,9440078689
+1006,5335,Raja Manikanta Gupta,DESG,Technical Officer,DESG,94925840602
+1007,5336,Vijay Malviya,DECS,Scientist E,DECS,9490956110
+1008,5337,Shekhar,MES,----Select----,MES,9951059757
+1009,5338,,HPT&P,----Select----,,
+1010,5339,R Satti Babu,DCS,Scientist D,,9440571970
+1011,5340,Lalith Shakywal,DCS,Scientist B,,9816923576
+1012,5341,Amrendra Kumar,DSP,Technical Officer A,,9492965872
+1013,5342,G Rajendar Reddy,MRSAM,----Select----,,9848263024
+1014,5343,V Ravi,MRSAM (ARMY),Col,MRSAM (ARMY),9772891441
+1015,5344,,MRSAM (ARMY),----Select----,MRSAM (ARMY),
+1016,5345,Bhupesh Kumar,DICT,Technical Assista,TIRC,9491660890
+1017,5346,Naga Satyalatha,DP & HR,Technical Officer,HRDG,9951285023
+1018,5347,Ashok Kumar,DIIRS-2,Scientist D,,9035304885
+1019,5348,Dr.G Mallikarjuna Rao,DRFS-1,Scientist F,,9490166665
+1020,5349,Vimal Kumar Jain,DRFT,Scientist E,,
+1021,5350,Joita Mukherjee,DRFT,Scientist F,,
+1022,5351,GV Ramakoteshwara Rao,DRFT,Scientist F,,
+1023,5352,Rajeev Ranjan,SINT-E,Scientist E,SINT-E,8333972141
+1024,5353,Govind Singh T,DOMS,Administrative Officer,,9398409014
+1025,5354,K Surya Prakash Rao,DOMS,Senior Admin Assi,DOMS,9491001001
+1026,5355,B BALARAJU,DOMS,Senior Admin Assi,Finance,9440746205
+1027,5356,P. Vijay Ram Reddy,DOFI,Scientist E,DOFI,8333015215
+1028,5357,  B Prakash CDR Joint Dir,SINT-E,----Select----,AD,
+1029,5358,Divya Kumar Garg,DESG,Scientist E,DESG,8500775320
+1030,5359,J Nalini Vidyulatha,DECS,Scientist E,DECS,9490956628
+1031,5360,M Madhava Kumar,DECS,Scientist F,DECS,9493715872
+1032,5361,M Ravi Kumar,DSQA,Scientist F,SQAD,9490166942
+1033,5362,C H Ravi Kumar,DRFT,Scientist F,RSSD,9492362518
+1034,5363,Kasu VSRS Shekhar Rao,SINT-E,Scientist E,Garuthma,
+1035,5366,P  Meera,DECS,Scientist F,,9490153770
+1036,5367,B Sulochana,DRFS-1,Scientist E,,
+1037,5368,K Balaji,DSP,Scientist E,,9440604604
+1038,5369,S Sreekanth,DRFT,Scientist E,,8333807816
+1039,5370,Manish Kumar ,DRFS-1,Scientist E,,
+1040,5373,Santanu Kumar Das,SINT - M,Sr. Technical Assistant B,,8500654570
+1041,5374,Rajoo Kumar RAJ,SINT - M,Sr. Technical Assistant B,,8252945078
+1042,5375,R Venkatram Reddy,NASM-MR,Scientist G,NASM-MR,9010288664
+1043,5376,Shivani Garg,DOFI,Scientist F,,
+1044,5377,LT Ashwini Bhardwaj,SINT-E,----Select----,AD,
+1045,5378,Suraj Sharma,DNS,Lt Col,DNS,
+1046,5380,C H V V Satyanarayana,DNS,Scientist F,FOSD,
+1047,5381,D Yadaiah,SINT - M,Technician C,SINT - M,9948207978
+1048,5382,Poonam Sharma,DNS,Technical Officer,ISG,9494282285
+1049,5383,Abhishek Jain,DNS,Scientist C,ISG,9490687827
+1050,5384,S Sreenivas,DSP,Scientist D,,9912660300
+1051,5385,G Sulochana,NASM-MR,Scientist F,NASM-MR,9705318881
+1052,5386,P Gangadhara,Project VSHORADS,Scientist F,,9493348384
+1053,5387,Subramaniam MVG,Project VSHORADS,Lt Col,,9650103057
+1054,5388,Tatri Kadraka ,DSP,Technical Officer,DSP,9493559348
+1055,5389,Mahesh Tiwari,DSP,Technician A,DSP,9795279965
+1056,5392, Gandham Naresh,DOFI,Scientist E,DOFI,9032640900
+1057,5393,G Vijaya Durga,DECS,Scientist G,,9441222211
+1058,5394,C Sharada,DECS,Technical Officer C,,9963208078
+1059,5395,Gopi Krishna,DECS,Scientist F,,9963641341
+1060,5396,S Kalyan Kumar,DSQA,Scientist F,TARA Project,9440093419
+1061,5397,K Arunasri,DR & QA,Scientist F,,8790835168
+1062,5398,DSC Main Gate,DOMS,----Select----,DSC,
+1063,5399,Hav Dilip Singh,DOMS,----Select----,DSC,
+1064,5400,GGK Murthy,DOFI,Scientist F,DOFI,9000777345
+1065,5402,Sanjeeb Kumar mishra,MRSAM,Scientist G,MRSAM,9987893962
+1066,5405,Rohit Kumar Upadyaya,DOFI,Scientist B,,9662996076
+1067,5407,K Sujana Sri,DOFI,Technical Officer,,8341760167
+1068,5408,K Sudarasana Reddy,DOFI,Scientist F,,
+1069,5409,Baride Anand,NASM-SR,Scientist F,,
+1070,5410,Transit Facility,,----Select----,,
+1071,5411,Kalyanendu mishra,Garuda I,Scientist F,Garuda I,9000507954
+1072,5412,M Sarith,DECS,Technical Officer,,8500968148
+1073,5414,Dr MSY Siva Prasad,PROJECT RUDRAM-II,Scientist G,,
+1074,5415,B SOMESWARA RAO,PROJECT RUDRAM-II,Scientist F,,
+1075,5416,B Biswal,DSP,Senior Admin Offi,DOMS,8328877545
+1076,5417,P Amulya Devi,LRGB,Sqn Ldr,LRGB,8755365882
+1077,5418,P Kiran Kumar,MRSAM,Technical Officer B,MRSAM,9490437915
+1078,5420,Charipally Adarsh,DCS,Scientist B,,9618431901
+1079,5421,B Mahesh Nayak,DCS,Scientist B,,9652105342
+1080,5422,Sunny Kumar Singh,DCS,Sr. Technical Ass,,7323860231
+1081,5423,Pawan Kumar,DCS,Sr. Technical Ass,,9065259497
+1082,5424,Rashmi Kumari,DCS,Sr. Technical Ass,,7258804811
+1083,5425,K kannaiah,DCS,Technician B,,9490219457
+1084,5427,Shubham,DCS,Technician A,,7470694383
+1085,5428,Conference Hall 1,DCMM,Technical Officer,,
+1086,5429,U V L Prasad,DCMM,Technical Officer,BILLS / BPD,9492127170
+1087,5431,BMVSN Maruthi,DOFI,Scientist B,DL & ASG,8520874752
+1088,5432,K Praveen Kumar,DOFI,Technical Officer,DL & ASG,8978053083
+1089,5433,P Venktesh,DOFI,Technical Officer,,9491876795
+1090,5434,D Siva Satyanarayana,DOFI,Technical Officer C,DOFI,9491872508
+1091,5435,Darshan VH,DOFI,Technician A,,7353563267
+1092,5436,Manisha Kamal Konda,DRFT,Senior Research F,,9963795395
+1093,5437,Katravath Santhosh,DRFT,Scientist B,,9642714527
+1094,5438,Ravi Kumar,DRFT,Sr. Technical Ass,,8978948164
+1095,5439,Anil N Terkar,DSQA,Scientist G,,9348943705
+1096,5441,Amit Prakash Somnathe,DIIRS -1,Technician B,,9403676732
+1097,5442,KVBV Rayudu,DR & QA,Scientist G,,9440456800
+1098,5443,Pradeep Kumar Dixena,DECS,Scientist E,,9573361807
+1099,5444,Chinthoji Srilatha,DNS,Scientist E,FOSD,8332801452
+1100,5446,B Anusha,DCS,Senior Research F,,8466955361
+1101,5447,Pushpendra Singh,Project VSHORADS,Scientist E,DIIRS,9493209398
+1102,5448,,,----Select----,,
+1103,5449,Pushpendra Singh,DIIRS -1,Scientist E,,9493209398
+1104,5450,Sagar Chaudhary,DIIRS-2,Scientist B,,9412189961
+1105,5451,Achal Thakur,DIIRS-2,Scientist B,,7831855257
+1106,5452,Santosh Kumar Meena,DIIRS-2,Scientist B,,9493287327
+1107,5453,PragyaTripathi,DIIRS-2,Scientist B,,7354250665
+1108,5454,Kamlesh Kumar,DIIRS-2,Technical Officer A,,8500845418
+1109,5455,Desh Deepak Chaurasia,DIIRS-2,Sr. Technical Ass,,8604266955
+1110,5456,Sunil Kumar Murmu,DIIRS-2,Sr. Technical Ass,,8877141130
+1111,5458,Sunil Jeph,DCS,Scientist C,,8010476811
+1112,5459,G Ramanijaneya,DRFS-1,Scientist E,,9948625725
+1113,5460,Bala Krishna Sunkara,DRFS-1,Junior Reserch Fe,,9494386538
+1114,5461,Chandhan Kumar Choudhari,DRFS-1,Sr. Technical Ass,,9704890377
+1115,5462,Rakesh Kichouliya,DEM,Scientist E,,9441832687
+1116,5463,Lohit Kumar Naidu,DEM,Technical Officer A,,9440521364
+1117,5466,Praveen Kumar Verma,SINT-E,Technical Officer A,,9494281911
+1118,5467,Vinay Kumar,SINT-E,Technical Officer A,,9494283245
+1119,5468,Panna Lal Kumar,SINT-E,Technical Officer A,,9494282991
+1120,5469,P Vijaya Bhasker,SINT-E,Technical Officer A,,7337436140
+1121,5471,D Abishek,SINT-E,Sr. Technical Ass,,8500892906
+1122,5472,Manikant Verma,SINT-E,Technical Officer A,,8409291243
+1123,5474,Sumant Sahu,SINT-E,Sr. Technical Ass,,8333097095
+1124,5475,Jagadish Pani,SINT-E,Sr. Technical Ass,,8986740992
+1125,5476,Niranjan Saw,SINT-E,Sr. Technical Ass,,8409808249
+1126,5477,Mulika Uma Parwathi,SINT-E,Technical Officer A,,8331914259
+1127,5480,Naresh Kumar,SINT-E,Sr. Technical Ass,,7531931030
+1128,5481,Tapan Kumar Patra,SINT-E,Technician B,,9441288187
+1129,5482,Prince Kumar,SINT-E,Technician A,,9493802790
+1130,5483,Siddharth Saravat,SINT-E,Technical Officer A,,9494317970
+1131,5484,Surajpal Verma,SINT-E,Technician A,,8875360148
+1132,5485,Babalu Kumar,SINT-E,Technician A,,8858629278
+1133,5486,Goutham Kumar,SINT - M,Technical Officer A,,9493557138
+1134,5488,P Shiva Kumar,SINT - M,Technician C,,9701233251
+1135,5489,J Krishana Murthy,SINT - M,Technician B,,8333062567
+1136,5490,Trideo Prasad,SINT - M,Technician A,,7677634043
+1137,5491,T Bandaiah,SINT - M,Technical Officer,,9848773565
+1138,5492,K Ramanuja Sharma,SINT - M,Technical Assista,,9492573501
+1139,5493,K Srinivasa Rao,SINT - M,Technical Officer,,9640166804
+1140,5494,Shiv Shankar Kumar,SINT - M,Technical Officer A,,9491423446
+1141,5495,Vijay Kumar Saw,SINT - M,Sr. Technical Assistant B,,9431991257
+1142,5496,Gouranga Barik,SINT - M,Technical Officer A,,7873622588
+1143,5497,Anupam Pandey,SINT - M,Sr. Technical Assistant B,,9490359247
+1144,5498,Vishal Kumar Deep,SINT - M,Technician A,,8439933350
+1145,5499,Surajit Bala,SINT - M,Technician A,,9732462643
+1146,5500,Debendu Raul,SINT - M,Technician A,,7382295425
+1147,5501,Balram,ENTEST,Store Asst B,SVD,
+1148,5502,K Srinivasa Chary,ENTEST,Technical Officer,,9912800189
+1149,5503,P Atchuta Ramayya,ENTEST,Technical Officer,,
+1150,5504,P Sampath Kumar,ENTEST,Scientist E,SVD,
+1151,5505,Amber Srivastava,DNS,Scientist B,FOSD,9494751332
+1152,5506,Ajeet Kumar,DNS,Sr. Technical Assistant B,,8210271672
+1153,5507,Prashanth Rai,DNS,Scientist E,,9491677500
+1154,5508,Sanjay Das,DNS,Scientist D,,7382306722
+1155,5509,Praveen Tiwari,DNS,Scientist C,,9494099234
+1156,5510,Amit Kumar Chaurasiya,DNS,Scientist B,,9838496577
+1157,5512,T Mohana Krishna,DNS,Technical Officer,,9676684701
+1158,5513,M Ravi Chandra,DNS,Technical Officer B,,9491876794
+1159,5514,Yogesh ,DNS,Sr. Technical Ass,,9494287304
+1160,5515,Chinni Sekhar,DNS,Sr. Technical Ass,,9491906321
+1161,5516,S K Javeed,DNS,Sr. Technical Ass,,9494828089
+1162,5517,Gompa Srinu,DNS,Sr. Technical Ass,,
+1163,5518,Bablunath Rabidas,DNS,Sr. Technical Assistant B,,9493869120
+1164,5520,Damodhar Reddy,DNS,Junior Reserch Fe,,
+1165,5521,Suraj Sharma,DNS,Lt Col,,9370842614
+1166,5523,V Naveen Kumar,DECS,Scientist D,,9948480100
+1167,5524,P Yaswanth Kumar,DESG,Scientist D,,8985044123
+1168,5525,I Syam Sundara Rao,DECS,Scientist D,,8500453767
+1169,5526,G Savithri,DEAIS,Scientist E,,9966182915
+1170,5527,K Sravani,DECS,Scientist D,,9441983729
+1171,5528,Vijaya Malvia,DECS,Scientist E,,9490956110
+1172,5529,Prasanth Reddy,DECS,Scientist D,,9502308586
+1173,5530,Sumeet Singh,DECS,Scientist B,,9478046664
+1174,5531,Arun Kumar Chutke,DECS,Technical Officer B,,8333062435
+1175,5532,Amarnath,Pinaka Project,Technical Officer,,9494281962
+1176,5533,Prem Nair,DESG,Technical Officer,,9490654800
+1177,5534,S Jayaprada,DP & HR,Scientist F,HRDG,9985500776
+1178,5535,Vikas Verma,MRSAM (ARMY),Lt Col,,7298957465
+1179,5536,Laxman,MRSAM (ARMY),Scientist C,MRSAM (ARMY),8333098711
+1180,5537,Dileep Kumar,HPT&P,Sr. Technical Assistant B,,
+1181,5539,Nitin Khairmode,DOMS,Lt Col,,
+1182,5540,Kalyanedu Mishra,Garuda I,Scientist F,,
+1183,5542,,SINT - M,----Select----,,
+1184,5543,,,----Select----,DAC,
+1185,5544,Sanjay Biswas,DOPSS,Scientist F,PSSG,
+1186,5545,,DOMS,----Select----,DSC,
+1187,5546,M Saravanan,SINT - M,Scientist F,LRGB,
+1188,5547,C Shankamath,DOAI,Technical Officer,MID,9493682752
+1189,5548,A V Maruti Sairam,DECS,Scientist F,MODAC,
+1190,5549,K Sravani,DECS,Scientist D,MODAC,
+1191,5550,AV Maruti Sairam,DESG,Scientist F,DESG,9490986386
+1192,5551,A V Maruti Sairam,DECS,Scientist F,MODAC,
+1193,5552,P Veeranna,DOFI,Scientist F,DOFI,
+1194,5553,M Ratna Raju,MRSAM,Scientist F,,9440521364
+1195,5554,T Sanjeeva Kiran,DP & HR,Accounts Officer,Budget,9494237273
+1196,5555,D Srinivasa Rao (Retd),MRSAM,Group Captain,MRSAM,9440596505
+1197,5556,K Ravi Kumar,SINT-E,Scientist E,AD Int,9493861195
+1198,5557,J Nalini Vidyalatha,DECS,Scientist F,,9490956628
+1199,5558,M Saravanan,SINT - M,Scientist F,SINT - M,
+1200,5559,Vijay kunal Chandwani,NASM-MR,Commander,NASM-MR,7022342341
+1201,5560,Raj Dev Gangwar,DICT,Scientist B,,
+1202,5561,Anand Prakash Pandey,LRGB,Technical Officer A,LRGB,
+1203,5562,A Shiva Krishna Prasad,DHILS,Scientist E,,
+1204,5564,B Prabhakar,DOMS,Technical Officer A,Works & Services,
+1205,5565,CONFERENCE HALL,DOMS,----Select----,,
+1206,5566,P Naveen Kumar ,,Scientist F,DSP,
+1207,5567,Anil Kumar ,ASL / HTTC,Scientist G,,
+1208,5568,J Uma Shanker Rao ,Directors Sett,Scientist E,,7675827676
+1209,5569,Exch Intercom Room,Directors Sett,,,
+1210,5570,D N VARMA,,Scientist G,LRGB,
+1211,5571,D N Verma,,Scientist G,LRGB,9441117736
+1212,5572,Anil Kumar Prajapathi,DOPSS,Technical Officer A,PSSG,7730889476
+1213,5573,Amar Singh,DSP,Scientist E,DSP,9490431830
+1214,5574,G Raghavandra Rao (DPO),DSP,----Select----,DSP,9440701544
+1215,5575,Renuka S Agarwal ,DSQA,Sr. Technical Assistant B,,8886386676
+1216,5576,Harish Pareta,DSQA,Sr. Technical Assistant B,,8500397375
+1217,5577,T Balaji,DSQA,Technician B,,9640657530
+1218,5578,A Srilakshmi,DRFS-1,Scientist E,,
+1219,5579,Angadi Kalidas,DEAIS,Scientist E,,9441605385
+1220,5580,Kuchipudi Sireesha,DCS,Scientist B,,
+1221,5581,M Swapna,DEAIS,Scientist D,,9394532072
+1222,5582,D Sravan Kumar,DECS,Scientist D,,9948525053
+1223,5583,D S Archana,DEAIS,Scientist B,,9491486931
+1224,5585,Aquibuddin Ahmed,DECS,Scientist D,,9618318660
+1225,5586,Mehjabin,DECS,Scientist C,,9765365816
+1226,5587,ANJU Das B,DEAIS,Scientist B,,9497080742
+1227,5588,Kanchan Bhagtani,DEAIS,Junior Reserch Fellowship,,7225817350
+1228,5589,Chandana,DECS,Junior Reserch Fellowship,,9494954090
+1229,5590,N K Ratan Mondal,DOMS,----Select----,DSC Office,7602686271
+1230,5592,Abhay Kumar,DIIRS-2,Technician A,,8506994825
+1231,5593,D Narsimha,DIIRS -1,Technician B,,9912154858
+1232,5595,G Harish Kumar,,Scientist B,HPT&  P,9133443669
+1233,5596,Ram Sagar Singh,MRSAM,Technical Officer A,,8500653718
+1234,5597,Balaram bisoi,DOFI,Technician A,,7377366841
+1235,5598,K SAHDEV,SINT - M,Scientist G,TTG,
+1236,5601,S Goutham,DHILS,Scientist B,,9908306433
+1237,5602,E Naveen Kumar,DSP,Senior Store Assistant,,8639131052
+1238,5603,Sauabh Kumar Pal,DNS,Scientist C,,9494910736
+1239,5604,Abhimanyu Kumar,DNS,Scientist D,,9492941710
+1240,5605,Manjeet,DNS,Scientist C,,9728969604
+1241,5606,Praveen Kumar,DNS,Technical Officer A,,9493557568
+1242,5607,Ankit Kumar Pandey,DECS,Technician A,,9118443350
+1243,5608,Sanjay Das,DNS,Scientist D,,
+1244,5609,Sanjay Biswas,DOPSS,Scientist F,PSSG,9346839327
+1245,5610,S Loganathan,DOPSS,Scientist F,,
+1246,5611,D Venu Gopal,DP & HR,Senior Admin Assistant,Budget,
+1247,5612,Ankur Verma,DCS,Scientist B,,9491747929
+1248,5613,K Sireesha,DCS,Scientist B,,9717321913
+1249,5614,Samran,DCS,Scientist B,,9812628009
+1250,5615,Sunny Kumar Singh,DCS,Sr. Technical Assistant B,,7323860231
+1251,5616,Saikat Samaddar,DCS,Technician A,,8961252591
+1252,5617,Ch Lalu Swamy,,Junior Reserch Fellowship,,9666945275
+1253,5618,P Sudhakar,Pinaka Project,Sr. Technical Assistant B,,9391052083
+1254,5619,U Siva Ganesh,DR & QA,Scientist G,,
+1255,5620,AMAN KUMAR,DRFS-1,Technician A,,7903806871
+1256,5621,Pradeep Sangala,DRFS-1,Junior Reserch Fellowship,,8686220144
+1257,5622,Ayushi Meena,DRFS-1,Scientist B,,9198733408
+1258,5623,Ankit Shivhare,DRFS-1,Scientist B,,9440435037
+1259,5624,A B Anbezhil,MRSAM (ARMY),Technical Officer C,MRSAM (ARMY),9441435705
+1260,5625,Chinthoji Srilatha,DNS,Scientist E,DECS,8332801452
+1261,5626,M. Madhva kumar,DNS,Scientist G,DECS,9493715872
+1262,5629,Shruti Sinha,DECS,Technician A,,7095818301
+1263,5630,G V Ramaneswara Rao,DECS,Technician C,,9705321458
+1264,5632,Ankit Kumar Pandey,DECS,Technician A,,7382429803
+1265,5633,Santosh,DOMS,SUB,DSC,
+1266,5635,M D Aquibuddin Ahmed,DRFT,Scientist D,,8985072881
+1267,5636,Atul Pawar,DOFI,Scientist G,,
+1268,5637,Lalit Shakywal,DCS,Scientist C,LRGB,9816923576
+1269,5638,M S Chandra Sekhar,DOPSS,Scientist E,PSSG,
+1270,5639,Rajesh Lanjwar.W,LRGB,Scientist F,,
+1271,5640,,Directors Sett,----Select----,,
+1272,5641,M Manoj,DECS,Scientist F,DECS,9441902840
+1273,5642,M Vijaya Laxmi,DOMS,----Select----,ADMN,
+1274,5643,K Suchendar,DICT,Scientist G,,
+1275,5644,Sanjay Bharti,DCMM,Col,,9462891441
+1276,5645,M V V BHASKAR,,Senior Admin Assistant,DOMS,
+1277,5646,Manoj kumar pal singh,CSL,Scientist E,,9640466431
+1278,5647,vaibhav shukla,,----Select----,,
+1279,5648,VAIBHAV SHUKLA,SINT - M,Scientist B,SINT-M,9044819754
+1280,5649,KANIKE SREENIVASULU,MRSAM (ARMY),Scientist F,MRSAM (ARMY),
+1281,5650,SANTOSH KUMAR,DSC,SUB,DOMS,9349636057
+1282,5651,V Kundu,DOMS,Col,DSC,9489507682
+1283,5652,V Kundu,DOMS,Col,DSC,9489507682
+1284,5653,V Kundu,DOMS,Col,DSC,9489507682
+1285,5654,V Kundu,DOMS,Col,DSC,9489507682
+1286,5655,V Kundu,DOMS,Col,DSC,9489507682
+1287,5656,D Y Vasantha,DSP,Senior Admin Officer Grade II,DSP,
+1288,5657,E V Subba Rao,SINT - M,Scientist F,SINT -E,
+1289,5659,A Vijaya Lakshmi,DSP,Scientist E,DSP,
+1290,5661,D Pradhan,PSSG,Wing Commander,PSSL,
+1291,5662,T Shirisha,NASM-SR,Scientist G,,
+1292,5663,K Raghavendra,RUDRAM-III,Scientist D,,8985424489
+1293,5664,Prashant Kumar Mandal,RUDRAM-III,Technical Officer A,,9493528152
+1294,5665,A Hari Babu,RUDRAM-III,Scientist F,,
+1295,5666,Arnanya Guest Room,,----Select----,Offr Mess,
+1296,5667,P Sushma,DESG,Scientist E,DESG,9490286824
+1297,5668,D Shravan Kumar,DNEC,Scientist E,DECS,9948525053
+1298,5669,N Vijaya Lakshmi,DIIRS-2,Scientist F,,7382180110
+1299,5670,N Srinivasa Rao,MRSAM,Technical Officer B,,9441214408
+1300,5671,M Umakant ,SINT - M,Scientist F,SINT - M,
+1301,5672,Amit Kumar Verma,DRFS-1,Scientist F,,9491024678
+1302,5673,P Yashwantha Kumar,DESG,Scientist E,,8985044123
+1303,5674,K Ram Mohan Raju,,Scientist D,,
+1304,5675,Amit Shrivastava,DEAIS,Scientist F,DEAIS,9052257770
+1305,5677,Shridhar S Nerali,Project VSHORADS,Lt Col,,
+1306,5679,Akshaya Canteen,,----Select----,,
+1307,5681,Gp Capt B.Senthilvel,PROJECT RUDRAM-II,Group Captain,Rudram -||,9444973284
+1308,5682,Tea Room,DOMS,----Select----,DSC,
+1309,5683,N.GiriBabu,NASM-MR,Scientist E,NASM-MR,9492884262
+1310,5684,Abhisek sharm (GE),,----Select----,MES,9636922577
+1311,5685,Abhijit Awale,PROJECT RUDRAM-II,Scientist D,,
+1312,5686,ShrutiAgarwal,DIIRS -1,Scientist C,,9457865789
+1313,5687,M R Karthikeyan,,Admin Officer,DOMS,
+1314,5688,S JYOTHIRANI,,Admin Officer,DOMS,
+1315,5689,R Venkatrem Reddy,NASM-MR,Scientist G,NASM-MR,
+1316,5690,Shekhar Singh,,Group Captain,TARA Project,7042133665
+1317,5691,K L Raju Sekhar,DECS,Scientist F,DECS,
+1318,5692,Lt Col JK Agarwal,DOMS,Lt Col,DOMS,8800778855
+1319,5693,Dr R Manivannan,DRFT,Scientist F,,
+1320,5694,Dr R Manivannan,DRFT,Scientist F,,
+1321,5695,Dr R Manivannan,DRFT,Scientist F,,
+1322,5696,T Manjula,DOMS,Admin Officer,,
+1323,5697,Shaik Hameed,DOMS,Admin Officer,,9490956142
+1324,5698,D Nagaraju,PROJECT RUDRAM-II,Scientist F,,
+1325,5700,P Srinivas rao,SINT - M,Technical Officer,SINT-M,7731003621
+1326,5701,Harminder Singh Johar,RUDRAM-III,Scientist F,,
+1327,5702,Sanjay Kumar,RUDRAM-III,Scientist E,,
+1328,5703,D Venu Gopal,RUDRAM-III,"Scientist H,OS",,
+1329,5704,D Shalem Raju,SINT-E,Scientist C,,
+1330,5705,N Bhagwan ,DIIRS-2,Scientist F,DEAIS,9490959595
+1331,5706,Gp Capt S K Dashwal,PSSG,Group Captain,PSSG,
+1332,5707,D Nagaraju,PROJECT RUDRAM-II,Scientist F,,
+1333,5708,T Shirisha,NASM-SR,Scientist G,,
+1334,5709,Sanjay Kumar,RUDRAM-III,Scientist F,,9441063125
+1335,5710,A B Anbezhil,MRSAM (ARMY),Technical Officer,,
+1336,5711,SSS B S Subba Rao,DCS,Scientist G,HPT&  P,9490956061
+1337,5712,Dr L Viswanadhan,SAAW,Scientist F,,9493979977
+1338,5714,Vinod Kumar Mohar,DICT,Scientist E,,
+1339,5715,M praveen kumar,DSP,Senior Accounts Officer Grade II,DSP,
+1340,5716,K Raghavendra & P K Srivastav,SINT - M,Scientist E,,8985424489
+1341,5717,K Gopinath ,SINT - M,Scientist E,,9705376764
+1342,5718,Akash Sharma,DOMS,Admin Asst B,,
+1343,5719,M R Hemavathi,DCMM,Stores Officer,,9394495075
+1344,5720,Dr CH.N.A.B.Sankar,DIIRS -1,Scientist F,,9247221136
+1345,5721,R Laxman,DCS,Scientist D,,
+1346,5722,Dy IFA,Directors Sett,----Select----,,
+1347,5723,Abbas Ali,,----Select----,,8329787640
+1348,5724,Rohit Sharma,DEAIS,Scientist E,MEMS,8500432527
+1349,5725,Joshi,CHESS,Lt Col,chess,8570095930
+1350,5726,Murali Krishna,DOMS,MAJ,MI Room,9030444928
+1351,5727,K Rajesh,DOMS,Accounts Officer,DOMS,7416166932
+1352,5728,R.Ramesh,DRFS-1,Scientist E,,
+1353,5729,Ramesh R ,DRFS-1,Scientist E,,9493130021
+1354,5730,P Atchutaramaya,DOMS,Scientist F,DOMS,9440729431
+1355,5731,K K Rai,CHESS,Scientist F,,9479001171
+1356,5732,Parvind kumar,,Technical Officer A,EMI/EMC,7095600364
+1357,5733,S Krishna kumar,,Technician A,Commmunication,9441301197
+1358,5734,Syveera Bhadra Reddy,ENTEST,Scientist F,,9490020010
+1359,5735,Sanjeev Kumar,,Store Asst B,EMI/EMC,
+1360,5736,Asish Dutta ,CSL,Scientist F,,9494237327
+1361,5737,R Veenkatam Reddy ,NASM-MR,Scientist G,,
+1362,5738,P Balasubramanium,,Scientist F,General Admin,8500228270
+1363,5739,P Atchutaramayya,DOMS,Scientist F,DOMS,9440729431
+1364,5740,Shailesh Kumar,,Technical Officer A,TARA Project,9493625447
+1365,5741,Transit Facility,DOMS,----Select----,DOMS,
+1366,5742,Transit Facility,DOMS,----Select----,DOMS,
+1367,5743,Pankaj Kumar Singh,DSQA,Scientist E,LRGB,9010966251
+1368,5744,V Sai Charan,DRSS,Store Asst B,DRSS,7095876470
+1369,5745,S Krishna,DOFI,Scientist E,DOFI,8500013640
+1370,5747,S RAMA,DOMS,Senior Accounts Officer Grade II,,
+1371,5748,Nitin chourasia,DRFS-2,Scientist F,,
+1372,5749,Nitin chourasia,DRFT,Scientist F,,
+1373,5750,S jyothiramai,DOMS,Admin Officer,,
+1374,5751,,,----Select----,TARA Project,
+1375,5752,Deb Kumar Ghosh,,Scientist F,TARA Project,
+1376,5753,Raja Manikanta Gupta,DECS,Scientist B,DECS,9492584060
+1377,5754,Chandrabhusan Kumar,DESG,Scientist F,DESG,9440822561
+1378,5755,G. Vamshi Krishna,DCS,Scientist E,,
+1379,5756,BMVSN MARUTHI,,Scientist B,DOFI,8520874752
+1380,5757,Neeraj Yadav,ENTEST,Scientist C,,9971731972
+1381,5758,Rakesh Kicholiya,,Scientist F,EMI/EMC,9441832687
+1382,5759,Lohit Kumar Naidu,,Technical Officer A,EMI/EMC,9948491719
+1383,5760,,SINT - M,----Select----,SINT-M,
+1384,5761,B Mahesh Nayak,DCS,Scientist B,,9652105342
+1385,5762,Sri Laxman,MRSAM (ARMY),Scientist D,MRSAM (ARMY),8333098711
+1386,5763,M Gangadhar,DHILS,Scientist E,,
+1387,5765,Ankit Anand,DNS,Sr. Technical Assistant B,DNS,8986526595
+1388,5766,Ravi Kumar,DRFT,Store Asst B,,9390297601
+1389,5767,Sumit Khandelwal,DRFT,Store Asst B,,9981977027
+1390,5768,Visram Kumar Meena ,DRFT,Technician A,,9782899293
+1391,5769,,,----Select----,,
+1392,5770,,,----Select----,,
+1393,5771,Praveen Tiwari,DNS,Scientist C,DNS,9494099234
+1394,5772,BSV Prasad,RUDRAM-III,Scientist G,,
+1395,5773,S V Satnarayana,SINT- E,Scientist F,SINT-E,7798087870
+1396,5774,Lipika Sahoo,SINT- E,Scientist C,SINT -E,9438158539
+1397,5775,D Shalem Raju,SINT- E,Scientist C,SINT-E,
+1398,5776,Vijay Bhaskar,SINT- E,Technical Officer A,SINT-E,
+1399,5777,Ankit,DOMS,Sr. Technical Assistant B,,8332959060
+1400,5778,Conference Hall,DCMM,----Select----,,
+1401,5779,G Varalakshmi,DCMM,Senior Stores Officer Grade II,SPG,9573647675
+1402,5780,G Ramesh,DCMM,Senior Stores Officer Grade II,,
+1403,5781,Roopa Laksmi M,DCMM,----Select----,MALD,9490069390
+1404,5782,Suman Mondal,DCMM,Store Asst A,CNC,9635859501
+1405,5783,Conference Hall 2,DCMM,----Select----,,
+1406,5784,Dr.JV Satyanarayana,DNEC,Scientist G,DEAIS,9490166736
+1407,5785,Arun singh,DEAIS,Scientist E,MEMS,8374970940
+1408,5786,HE,,----Select----,,
+1409,5787,Hemant Kumar,DEAIS,----Select----,,9493413947
+1410,5788,Hemant Kumar,DEAIS,Sr. Technical Assistant B,DEAIS,9493413947
+1411,5789,Ashish Ranjan Prasad,DECS,Scientist E,DECS,
+1412,5790,Naresh Gandham,DOFI,Scientist E,DOFI,
+1413,5791,Suman Agarwal ,DSP,Scientist F,DSP,
+1414,5792,Web Team,DICT,Scientist F,ER&CS,9177205051
+1415,5793,Thirumala Rao,DOMS,Technical Officer A,Works & Services,9603541812
+1416,5794,G sathish kumar,,Scientist D,,
+1417,5795,P Ambedkar ,,Scientist F,,
+1418,5796,S Saravanan ,,Scientist E,,
+1419,5797,amit kumar,,Scientist F,,
+1420,5798,Pradeep Dutta,CHESS,Lt Col,chess,9417169279
+1421,5799,Pradeep Kumar,,Scientist F,ASAM,
+1422,5800,K Hanumesh,,Scientist G,ASAM,
+1423,5801,K Satyanarayana,Project VSHORADS,Scientist G,,
+1424,5802,Ankita Kumari,DNS,Sr. Technical Assistant B,DNS,9441258764
+1425,5803,Mahasweta Bakshi,,"Scientist H,OS, Associate Director",,
+1426,5804,P Sai Kumar,,Scientist G,,
+1427,5805,KR rAMESH Kumar,,Scientist F,,9440909956
+1428,5806,Kadam Sunil Gangaram,,Scientist F,,
+1429,5807,P Naveen Kumar,DSP,Scientist F,,
+1430,5808,Amit Kumar Medatiya,DSP,Scientist E,,
+1431,5809,M Ravi Chandra,NASM-MR,Technical Officer B,,
+1432,5810,Dovari Nagaraju,DRFT,Scientist E,,
+1433,5811,E V Subba Rao,DR & QA,Scientist F,,
